@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.ovh/pl/plar.xml"
+#EXTM3U url-tvg="http://epg.ovh/pl/pl.xml"
 #EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FullHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
 #EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
