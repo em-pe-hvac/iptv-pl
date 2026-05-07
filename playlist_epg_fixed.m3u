@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://epg.ovh/pl.xml"
-#EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FullHD
+¿#EXTM3U url-tvg="https://epg.ovh/pl.xml"
+#EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
 #EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563254&extension=ts
-#EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="OGOLNE",TVP 1 FullHD
+#EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="OGOLNE",TVP 1 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227463&extension=ts
 #EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="OGOLNE",TVP 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563255&extension=ts
@@ -11,7 +11,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563255&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227462&extension=ts
 #EXTINF:-1 tvg-id="tvp2.tvp.pl" tvg-name="PL - TVP 2" tvg-logo="https://iptv-epg.org/logos/Poland/TVP2.pl.png" group-title="OGOLNE",TVP 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563256&extension=ts
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="OGOLNE",TVP 3 FullHD
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="OGOLNE",TVP 3 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563257&extension=ts
 #EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="OGOLNE",TVP 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227461&extension=ts
@@ -19,7 +19,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227461&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227460&extension=ts
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - TVP Polonia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPPolonia.pl.png" group-title="OGOLNE",TVP POLONIA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563258&extension=ts
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="OGOLNE",TV4 FullHD
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="OGOLNE",TV4 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227459&extension=ts
 #EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="OGOLNE",TV4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563259&extension=ts
@@ -151,71 +151,71 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563289&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227275&extension=ts
 #EXTINF:-1 tvg-id="tvpinfo.tvp.pl" tvg-name="PL - TVP Info" tvg-logo="https://iptv-epg.org/logos/Poland/TVPInfo.pl.png" group-title="OGOLNE",TVP INFO HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563290&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Premium.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Premium.svg.png" group-title="FILMOWE",CANAL+ PREMIUM HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227446&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="FILMOWE",CANAL+ 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227445&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfamily.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfamily.png" group-title="FILMOWE",CANAL+ FAMILY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227444&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/C+Now.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ NOW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/C+Now.png" group-title="FILMOWE",CANAL+ NOW
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227442&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfilm.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ FILM HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfilm.png" group-title="FILMOWE",CANAL+ FILM HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227439&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canal-plus-seriale.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ SERIALE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canal-plus-seriale.png" group-title="FILMOWE",CANAL+ SERIALE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227438&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_extra_pl.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_extra_pl.png" group-title="FILMOWE",FILMBOX EXTRA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227436&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FilmBoxPremium-logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FilmBoxPremium-logo.png" group-title="FILMOWE",FILMBOX PREMIUM HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227435&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox-action.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX ACTION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox-action.png" group-title="FILMOWE",FILMBOX ACTION
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227434&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/filmbox-famly-logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/filmbox-famly-logo.png" group-title="FILMOWE",FILMBOX FAMILY
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227433&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_arthouse_pl.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX ARTHOUSE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_arthouse_pl.png" group-title="FILMOWE",FILMBOX ARTHOUSE
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227432&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_red.png" group-title="┃PL┃ FILMOWE",┃PL┃ CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_red.png" group-title="FILMOWE",CINEMAX HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227431&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_2_logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ CINEMAX 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_2_logo.png" group-title="FILMOWE",CINEMAX 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227430&extension=ts
-#EXTINF:-1 tvg-id="" tvg-id="hbo.pl" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO_logo.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ HBO HD
+#EXTINF:-1 tvg-id="" tvg-id="hbo.pl" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO_logo.svg.png" group-title="FILMOWE",HBO HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227429&extension=ts
-#EXTINF:-1 tvg-id="" tvg-id="hbo.pl" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/640px-HBO_2_Logo_Poland.png" group-title="┃PL┃ FILMOWE",┃PL┃ HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-id="hbo.pl" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/640px-HBO_2_Logo_Poland.png" group-title="FILMOWE",HBO 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227428&extension=ts
-#EXTINF:-1 tvg-id="" tvg-id="hbo.pl" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO3.png" group-title="┃PL┃ FILMOWE",┃PL┃ HBO 3 HD
+#EXTINF:-1 tvg-id="" tvg-id="hbo.pl" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO3.png" group-title="FILMOWE",HBO 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227427&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="FILMOWE",VOD 205
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227426&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="FILMOWE",VOD 206
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227425&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="FILMOWE",VOD 207
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227424&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="FILMOWE",VOD 208
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227423&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Kino_Polska_-_Logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ KINO POLSKA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Kino_Polska_-_Logo.png" group-title="FILMOWE",KINO POLSKA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227422&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1280px-Ale_Kino!_2006_-_Logo.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ ALE KINO  HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1280px-Ale_Kino!_2006_-_Logo.svg.png" group-title="FILMOWE",ALE KINO  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227362&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Logo_novela_tv.png" group-title="┃PL┃ FILMOWE",┃PL┃ NOVELA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Logo_novela_tv.png" group-title="FILMOWE",NOVELA TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227354&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/KinoTV-logo-black.png" group-title="┃PL┃ FILMOWE",┃PL┃ KINO TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/KinoTV-logo-black.png" group-title="FILMOWE",KINO TV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227344&extension=ts
-#EXTINF:-1 tvg-id="CANAL+DOKUMENT.pl" tvg-name="PL - CANAL+ DOKUMENT" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOKUMENT.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ DOKUMENT HD
+#EXTINF:-1 tvg-id="CANAL+DOKUMENT.pl" tvg-name="PL - CANAL+ DOKUMENT" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOKUMENT.pl.png" group-title="DOKUMENTALNE",CANAL+ DOKUMENT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227443&extension=ts
-#EXTINF:-1 tvg-id="CANAL+DOMO.pl" tvg-name="PL - CANAL+ DOMO" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOMO.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ DOMO HD
+#EXTINF:-1 tvg-id="CANAL+DOMO.pl" tvg-name="PL - CANAL+ DOMO" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOMO.pl.png" group-title="DOKUMENTALNE",CANAL+ DOMO HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227441&extension=ts
-#EXTINF:-1 tvg-id="CANAL+KUCHNIA.pl" tvg-name="PL - CANAL+ KUCHNIA" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BKUCHNIA.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ KUCHNIA HD
+#EXTINF:-1 tvg-id="CANAL+KUCHNIA.pl" tvg-name="PL - CANAL+ KUCHNIA" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BKUCHNIA.pl.png" group-title="DOKUMENTALNE",CANAL+ KUCHNIA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227440&extension=ts
-#EXTINF:-1 tvg-id="CANAL+PREMIUM.pl" tvg-name="PL - CANAL+ PREMIUM" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BPREMIUM.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ DISCOVERY HD
+#EXTINF:-1 tvg-id="CANAL+PREMIUM.pl" tvg-name="PL - CANAL+ PREMIUM" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BPREMIUM.pl.png" group-title="DOKUMENTALNE",CANAL+ DISCOVERY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227437&extension=ts
-#EXTINF:-1 tvg-id="TLC.pl" tvg-name="PL - TLC" tvg-logo="https://iptv-epg.org/logos/Poland/TLC.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ TLC HD
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="PL - TLC" tvg-logo="https://iptv-epg.org/logos/Poland/TLC.pl.png" group-title="DOKUMENTALNE",TLC HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227408&extension=ts
-#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="PL - Travel Channel" tvg-logo="https://iptv-epg.org/logos/Poland/TravelChannel.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="PL - Travel Channel" tvg-logo="https://iptv-epg.org/logos/Poland/TravelChannel.pl.png" group-title="DOKUMENTALNE",TRAVEL CHANNEL HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227404&extension=ts
-#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="PL - Adventure" tvg-logo="https://iptv-epg.org/logos/Poland/Adventure.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ ADVENTURE HD
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="PL - Adventure" tvg-logo="https://iptv-epg.org/logos/Poland/Adventure.pl.png" group-title="DOKUMENTALNE",ADVENTURE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227401&extension=ts
-#EXTINF:-1 tvg-id="DaVinci.pl" tvg-name="PL - Da Vinci" tvg-logo="https://iptv-epg.org/logos/Poland/DaVinci.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DA VINCI
+#EXTINF:-1 tvg-id="DaVinci.pl" tvg-name="PL - Da Vinci" tvg-logo="https://iptv-epg.org/logos/Poland/DaVinci.pl.png" group-title="DOKUMENTALNE",DA VINCI
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227400&extension=ts
-#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL - Food Network" tvg-logo="https://iptv-epg.org/logos/Poland/FoodNetwork.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ FOOD NETWORK HD
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL - Food Network" tvg-logo="https://iptv-epg.org/logos/Poland/FoodNetwork.pl.png" group-title="┃PL┃ PRZYRODNICZE",FOOD NETWORK HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227399&extension=ts
 #EXTINF:-1 tvg-id="CANAL+DOMO.pl" tvg-name="PL - CANAL+ DOMO" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOMO.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DOMO+  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227398&extension=ts
