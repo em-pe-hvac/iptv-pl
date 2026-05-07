@@ -1,155 +1,155 @@
 #EXTM3U url-tvg="https://epg.ovh/pl.xml"
-#EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP FHD
+#EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FullHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
-#EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP HD
+#EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563254&extension=ts
-#EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 1 FHD
+#EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="OGOLNE",TVP 1 FullHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227463&extension=ts
-#EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 1 HD
+#EXTINF:-1 tvg-id="tvp1.tvp.pl" tvg-name="PL - TVP 1" tvg-logo="https://iptv-epg.org/logos/Poland/TVP1.pl.png" group-title="OGOLNE",TVP 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563255&extension=ts
-#EXTINF:-1 tvg-id="tvp2.tvp.pl" tvg-name="PL - TVP 2" tvg-logo="https://iptv-epg.org/logos/Poland/TVP2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 2 FHD
+#EXTINF:-1 tvg-id="tvp2.tvp.pl" tvg-name="PL - TVP 2" tvg-logo="https://iptv-epg.org/logos/Poland/TVP2.pl.png" group-title="OGOLNE",TVP 2 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227462&extension=ts
-#EXTINF:-1 tvg-id="tvp2.tvp.pl" tvg-name="PL - TVP 2" tvg-logo="https://iptv-epg.org/logos/Poland/TVP2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 2 HD
+#EXTINF:-1 tvg-id="tvp2.tvp.pl" tvg-name="PL - TVP 2" tvg-logo="https://iptv-epg.org/logos/Poland/TVP2.pl.png" group-title="OGOLNE",TVP 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563256&extension=ts
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 3 FHD
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="OGOLNE",TVP 3 FullHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563257&extension=ts
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 3 HD
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="PL - TVP 3 Białystok" tvg-logo="https://iptv-epg.org/logos/Poland/TVP3Bialystok.pl.png" group-title="OGOLNE",TVP 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227461&extension=ts
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - TVP Polonia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPPolonia.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP POLONIA FHD
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - TVP Polonia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPPolonia.pl.png" group-title="OGOLNE",TVP POLONIA FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227460&extension=ts
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - TVP Polonia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPPolonia.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP POLONIA HD
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL - TVP Polonia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPPolonia.pl.png" group-title="OGOLNE",TVP POLONIA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563258&extension=ts
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV4 FHD
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="OGOLNE",TV4 FullHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227459&extension=ts
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV4 HD
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="PL - TV 4" tvg-logo="https://iptv-epg.org/logos/Poland/TV4.pl.png" group-title="OGOLNE",TV4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563259&extension=ts
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL - TV 6" tvg-logo="https://iptv-epg.org/logos/Poland/TV6.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV6 FHD
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL - TV 6" tvg-logo="https://iptv-epg.org/logos/Poland/TV6.pl.png" group-title="OGOLNE",TV6 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227457&extension=ts
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL - TV 6" tvg-logo="https://iptv-epg.org/logos/Poland/TV6.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV6 HD
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="PL - TV 6" tvg-logo="https://iptv-epg.org/logos/Poland/TV6.pl.png" group-title="OGOLNE",TV6 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563260&extension=ts
-#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="PL - Polonia 1" tvg-logo="https://iptv-epg.org/logos/Poland/Polonia1.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLONIA 1 FHD
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="PL - Polonia 1" tvg-logo="https://iptv-epg.org/logos/Poland/Polonia1.pl.png" group-title="OGOLNE",POLONIA 1 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227456&extension=ts
-#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="PL - Polonia 1" tvg-logo="https://iptv-epg.org/logos/Poland/Polonia1.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLONIA 1 HD
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="PL - Polonia 1" tvg-logo="https://iptv-epg.org/logos/Poland/Polonia1.pl.png" group-title="OGOLNE",POLONIA 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563261&extension=ts
-#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT FHD
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="OGOLNE",POLSAT FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227455&extension=ts
-#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT HD
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="OGOLNE",POLSAT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563262&extension=ts
-#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL - Polsat 2" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT 2 FHD
+#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL - Polsat 2" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat2.pl.png" group-title="OGOLNE",POLSAT 2 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227454&extension=ts
-#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL - Polsat 2" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT 2 HD
+#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL - Polsat 2" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat2.pl.png" group-title="OGOLNE",POLSAT 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563263&extension=ts
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL - Super Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/SuperPolsat.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ SUPER POLSAT FHD
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL - Super Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/SuperPolsat.pl.png" group-title="OGOLNE",SUPER POLSAT FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563264&extension=ts
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL - Super Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/SuperPolsat.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ SUPER POLSAT HD
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="PL - Super Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/SuperPolsat.pl.png" group-title="OGOLNE",SUPER POLSAT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227453&extension=ts
-#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL - TVN" tvg-logo="https://iptv-epg.org/logos/Poland/TVN.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN FHD
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL - TVN" tvg-logo="https://iptv-epg.org/logos/Poland/TVN.pl.png" group-title="OGOLNE",TVN FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227452&extension=ts
-#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL - TVN" tvg-logo="https://iptv-epg.org/logos/Poland/TVN.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN HD
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL - TVN" tvg-logo="https://iptv-epg.org/logos/Poland/TVN.pl.png" group-title="OGOLNE",TVN HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563265&extension=ts
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL - TVN 7" tvg-logo="https://iptv-epg.org/logos/Poland/TVN7.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN 7 FHD
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL - TVN 7" tvg-logo="https://iptv-epg.org/logos/Poland/TVN7.pl.png" group-title="OGOLNE",TVN 7 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227451&extension=ts
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL - TVN 7" tvg-logo="https://iptv-epg.org/logos/Poland/TVN7.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN 7 HD
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL - TVN 7" tvg-logo="https://iptv-epg.org/logos/Poland/TVN7.pl.png" group-title="OGOLNE",TVN 7 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563266&extension=ts
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL - TVS" tvg-logo="https://iptv-epg.org/logos/Poland/TVS.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVS HD
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL - TVS" tvg-logo="https://iptv-epg.org/logos/Poland/TVS.pl.png" group-title="OGOLNE",TVS HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563267&extension=ts
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL - TVS" tvg-logo="https://iptv-epg.org/logos/Poland/TVS.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVS
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL - TVS" tvg-logo="https://iptv-epg.org/logos/Poland/TVS.pl.png" group-title="OGOLNE",TVS
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227450&extension=ts
-#EXTINF:-1 tvg-id="TTV.pl" tvg-name="PL - TTV" tvg-logo="https://iptv-epg.org/logos/Poland/TTV.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TTV HD
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="PL - TTV" tvg-logo="https://iptv-epg.org/logos/Poland/TTV.pl.png" group-title="OGOLNE",TTV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227449&extension=ts
-#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV PULS FHD
+#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="OGOLNE",TV PULS FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227448&extension=ts
-#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV PULS HD
+#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="OGOLNE",TV PULS HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563268&extension=ts
-#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV PULS 2 FHD
+#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="OGOLNE",TV PULS 2 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563275&extension=ts
-#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV PULS 2 HD
+#EXTINF:-1 tvg-id="PULS2.pl" tvg-name="PL - PULS 2" tvg-logo="https://iptv-epg.org/logos/Poland/PULS2.pl.png" group-title="OGOLNE",TV PULS 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227391&extension=ts
-#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="PL - Polsat Rodzina" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatRodzina.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT RODZINA FHD
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="PL - Polsat Rodzina" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatRodzina.pl.png" group-title="OGOLNE",POLSAT RODZINA FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563269&extension=ts
-#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="PL - Polsat Rodzina" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatRodzina.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT RODZINA HD
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="PL - Polsat Rodzina" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatRodzina.pl.png" group-title="OGOLNE",POLSAT RODZINA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227447&extension=ts
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL - TVP Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/TVPSeriale.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP SERIALE FHD
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL - TVP Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/TVPSeriale.pl.png" group-title="OGOLNE",TVP SERIALE FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563270&extension=ts
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL - TVP Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/TVPSeriale.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP SERIALE HD
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL - TVP Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/TVPSeriale.pl.png" group-title="OGOLNE",TVP SERIALE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227412&extension=ts
-#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL - Polsat Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSeriale.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT SERIALE FHD
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL - Polsat Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSeriale.pl.png" group-title="OGOLNE",POLSAT SERIALE FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227410&extension=ts
-#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL - Polsat Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSeriale.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT SERIALE HD
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="PL - Polsat Seriale" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSeriale.pl.png" group-title="OGOLNE",POLSAT SERIALE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563271&extension=ts
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL - TVP Kultura" tvg-logo="https://iptv-epg.org/logos/Poland/TVPKultura.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP KULTURA FHD
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL - TVP Kultura" tvg-logo="https://iptv-epg.org/logos/Poland/TVPKultura.pl.png" group-title="OGOLNE",TVP KULTURA FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563272&extension=ts
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL - TVP Kultura" tvg-logo="https://iptv-epg.org/logos/Poland/TVPKultura.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP KULTURA HD
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="PL - TVP Kultura" tvg-logo="https://iptv-epg.org/logos/Poland/TVPKultura.pl.png" group-title="OGOLNE",TVP KULTURA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227405&extension=ts
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL - TVN Fabuła" tvg-logo="https://iptvboss.xyz/logos/Poland/TvnFabula.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN FABULA FHD
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL - TVN Fabuła" tvg-logo="https://iptvboss.xyz/logos/Poland/TvnFabula.pl.png" group-title="OGOLNE",TVN FABULA FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227403&extension=ts
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL - TVN Fabuła" tvg-logo="https://iptvboss.xyz/logos/Poland/TvnFabula.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN FABULA HD
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL - TVN Fabuła" tvg-logo="https://iptvboss.xyz/logos/Poland/TvnFabula.pl.png" group-title="OGOLNE",TVN FABULA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563273&extension=ts
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL - TVN Turbo" tvg-logo="https://iptv-epg.org/logos/Poland/TVNTurbo.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN TURBO FHD
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL - TVN Turbo" tvg-logo="https://iptv-epg.org/logos/Poland/TVNTurbo.pl.png" group-title="OGOLNE",TVN TURBO FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227402&extension=ts
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL - TVN Turbo" tvg-logo="https://iptv-epg.org/logos/Poland/TVNTurbo.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN TURBO HD
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="PL - TVN Turbo" tvg-logo="https://iptv-epg.org/logos/Poland/TVNTurbo.pl.png" group-title="OGOLNE",TVN TURBO HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563274&extension=ts
-#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="PL - TBN Polska" tvg-logo="https://iptv-epg.org/logos/Poland/TBNPolska.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TBN POLAND FHD
+#EXTINF:-1 tvg-id="TBNPolska.pl" tvg-name="PL - TBN Polska" tvg-logo="https://iptv-epg.org/logos/Poland/TBNPolska.pl.png" group-title="OGOLNE",TBN POLAND FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227370&extension=ts
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="PL - TVP Rozrywka" tvg-logo="https://iptv-epg.org/logos/Poland/TVPRozrywka.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP ROZRYWKA
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="PL - TVP Rozrywka" tvg-logo="https://iptv-epg.org/logos/Poland/TVPRozrywka.pl.png" group-title="OGOLNE",TVP ROZRYWKA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227367&extension=ts
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL - Polsat Café" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatCafe.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT CAFE FHD
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL - Polsat Café" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatCafe.pl.png" group-title="OGOLNE",POLSAT CAFE FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227359&extension=ts
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL - Polsat Café" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatCafe.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT CAFE HD
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL - Polsat Café" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatCafe.pl.png" group-title="OGOLNE",POLSAT CAFE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563276&extension=ts
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL - Polsat Play" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatPlay.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT PLAY FHD
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL - Polsat Play" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatPlay.pl.png" group-title="OGOLNE",POLSAT PLAY FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227358&extension=ts
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL - Polsat Play" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatPlay.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT PLAY HD
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="PL - Polsat Play" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatPlay.pl.png" group-title="OGOLNE",POLSAT PLAY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563277&extension=ts
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL - Polo TV" tvg-logo="https://iptv-epg.org/logos/Poland/PoloTV.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLO TV FHD
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL - Polo TV" tvg-logo="https://iptv-epg.org/logos/Poland/PoloTV.pl.png" group-title="OGOLNE",POLO TV FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563278&extension=ts
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL - Polo TV" tvg-logo="https://iptv-epg.org/logos/Poland/PoloTV.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLO TV HD
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="PL - Polo TV" tvg-logo="https://iptv-epg.org/logos/Poland/PoloTV.pl.png" group-title="OGOLNE",POLO TV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227357&extension=ts
-#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL - TVN Style" tvg-logo="https://iptv-epg.org/logos/Poland/TVNStyle.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN STYLE FHD
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL - TVN Style" tvg-logo="https://iptv-epg.org/logos/Poland/TVNStyle.pl.png" group-title="OGOLNE",TVN STYLE FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227352&extension=ts
-#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL - TVN Style" tvg-logo="https://iptv-epg.org/logos/Poland/TVNStyle.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN STYLE HD
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL - TVN Style" tvg-logo="https://iptv-epg.org/logos/Poland/TVNStyle.pl.png" group-title="OGOLNE",TVN STYLE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563279&extension=ts
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="PL - Polsat Film" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatFilm.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT FILM FHD
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="PL - Polsat Film" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatFilm.pl.png" group-title="OGOLNE",POLSAT FILM FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227345&extension=ts
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="PL - Polsat Film" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatFilm.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT FILM HD
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="PL - Polsat Film" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatFilm.pl.png" group-title="OGOLNE",POLSAT FILM HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563280&extension=ts
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL - TVP Historia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPHistoria.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP HISTORIA FHD
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL - TVP Historia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPHistoria.pl.png" group-title="OGOLNE",TVP HISTORIA FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563281&extension=ts
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL - TVP Historia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPHistoria.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP HISTORIA HD
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="PL - TVP Historia" tvg-logo="https://iptv-epg.org/logos/Poland/TVPHistoria.pl.png" group-title="OGOLNE",TVP HISTORIA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227329&extension=ts
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="PL - Polsat Doku" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatDoku.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT DOKU FHD
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="PL - Polsat Doku" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatDoku.pl.png" group-title="OGOLNE",POLSAT DOKU FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227326&extension=ts
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="PL - Polsat Doku" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatDoku.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT DOKU HD
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="PL - Polsat Doku" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatDoku.pl.png" group-title="OGOLNE",POLSAT DOKU HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563282&extension=ts
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN 24 FHD
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="OGOLNE",TVN 24 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227282&extension=ts
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN 24 HD
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="OGOLNE",TVN 24 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563283&extension=ts
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN24 BIZ FHD
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="OGOLNE",TVN24 BIZ FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227281&extension=ts
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN24 BIZ HD
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL - TVN 24" tvg-logo="https://iptv-epg.org/logos/Poland/TVN24.pl.png" group-title="OGOLNE",TVN24 BIZ HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563284&extension=ts
-#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL - Polsat News" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT NEWS FHD
+#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL - Polsat News" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews.pl.png" group-title="OGOLNE",POLSAT NEWS FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227280&extension=ts
-#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL - Polsat News" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT NEWS HD
+#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL - Polsat News" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews.pl.png" group-title="OGOLNE",POLSAT NEWS HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563285&extension=ts
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL - Polsat News 2" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT NEWS 2 FHD
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL - Polsat News 2" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews2.pl.png" group-title="OGOLNE",POLSAT NEWS 2 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227279&extension=ts
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL - Polsat News 2" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews2.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT NEWS 2 HD
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="PL - Polsat News 2" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatNews2.pl.png" group-title="OGOLNE",POLSAT NEWS 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563286&extension=ts
-#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="PL - Wydarzenia 24" tvg-logo="https://iptv-epg.org/logos/Poland/Wydarzenia24.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ WYDARZENIA 24 FHD
+#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="PL - Wydarzenia 24" tvg-logo="https://iptv-epg.org/logos/Poland/Wydarzenia24.pl.png" group-title="OGOLNE",WYDARZENIA 24 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563287&extension=ts
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL - TV Republika" tvg-logo="https://iptv-epg.org/logos/Poland/TVRepublika.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV REPUBLIKA FHD
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL - TV Republika" tvg-logo="https://iptv-epg.org/logos/Poland/TVRepublika.pl.png" group-title="OGOLNE",TV REPUBLIKA FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227277&extension=ts
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL - TV Republika" tvg-logo="https://iptv-epg.org/logos/Poland/TVRepublika.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV REPUBLIKA HD
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="PL - TV Republika" tvg-logo="https://iptv-epg.org/logos/Poland/TVRepublika.pl.png" group-title="OGOLNE",TV REPUBLIKA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563288&extension=ts
-#EXTINF:-1 tvg-id="wPolsce.pl.pl" tvg-name="PL - wPolsce.pl" tvg-logo="https://iptv-epg.org/logos/Poland/wPolsce.pl.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ WPOLSCE 24 FHD
+#EXTINF:-1 tvg-id="wPolsce.pl.pl" tvg-name="PL - wPolsce.pl" tvg-logo="https://iptv-epg.org/logos/Poland/wPolsce.pl.pl.png" group-title="OGOLNE",WPOLSCE 24 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227276&extension=ts
-#EXTINF:-1 tvg-id="wPolsce.pl.pl" tvg-name="PL - wPolsce.pl" tvg-logo="https://iptv-epg.org/logos/Poland/wPolsce.pl.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ WPOLSCE 24 HD
+#EXTINF:-1 tvg-id="wPolsce.pl.pl" tvg-name="PL - wPolsce.pl" tvg-logo="https://iptv-epg.org/logos/Poland/wPolsce.pl.pl.png" group-title="OGOLNE",WPOLSCE 24 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563289&extension=ts
-#EXTINF:-1 tvg-id="tvpinfo.tvp.pl" tvg-name="PL - TVP Info" tvg-logo="https://iptv-epg.org/logos/Poland/TVPInfo.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP INFO FHD
+#EXTINF:-1 tvg-id="tvpinfo.tvp.pl" tvg-name="PL - TVP Info" tvg-logo="https://iptv-epg.org/logos/Poland/TVPInfo.pl.png" group-title="OGOLNE",TVP INFO FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227275&extension=ts
-#EXTINF:-1 tvg-id="tvpinfo.tvp.pl" tvg-name="PL - TVP Info" tvg-logo="https://iptv-epg.org/logos/Poland/TVPInfo.pl.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP INFO HD
+#EXTINF:-1 tvg-id="tvpinfo.tvp.pl" tvg-name="PL - TVP Info" tvg-logo="https://iptv-epg.org/logos/Poland/TVPInfo.pl.png" group-title="OGOLNE",TVP INFO HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563290&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Premium.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ PREMIUM HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227446&extension=ts
