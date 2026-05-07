@@ -1,4 +1,4 @@
-¿#EXTM3U url-tvg="https://epg.ovh/pl.xml"
+#EXTM3U url-tvg="https://epg.ovh/pl.xml"
 #EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
 #EXTINF:-1 tvg-id="tvp.tvp.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
@@ -215,9 +215,9 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227404&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227401&extension=ts
 #EXTINF:-1 tvg-id="DaVinci.pl" tvg-name="PL - Da Vinci" tvg-logo="https://iptv-epg.org/logos/Poland/DaVinci.pl.png" group-title="DOKUMENTALNE",DA VINCI
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227400&extension=ts
-#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL - Food Network" tvg-logo="https://iptv-epg.org/logos/Poland/FoodNetwork.pl.png" group-title="┃PL┃ PRZYRODNICZE",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL - Food Network" tvg-logo="https://iptv-epg.org/logos/Poland/FoodNetwork.pl.png" group-title="DOKUMENTALNE",FOOD NETWORK HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227399&extension=ts
-#EXTINF:-1 tvg-id="CANAL+DOMO.pl" tvg-name="PL - CANAL+ DOMO" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOMO.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DOMO+  HD
+#EXTINF:-1 tvg-id="CANAL+DOMO.pl" tvg-name="PL - CANAL+ DOMO" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOMO.pl.png" group-title="DOKUMENTALNE",DOMO+  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227398&extension=ts
 #EXTINF:-1 tvg-id="DTX.pl" tvg-name="PL - DTX" tvg-logo="https://iptv-epg.org/logos/Poland/DTX.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DTX
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227397&extension=ts
