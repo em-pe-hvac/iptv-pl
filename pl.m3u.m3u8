@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.ovh/pl.xml.gz" refresh="3600" format=“auto”
 #EXTINF:-1 tvg-id="TVP.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
 #EXTINF:-1 tvg-id="TVP.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
@@ -331,277 +331,277 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227274&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227273&extension=ts
 #EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL - Novelas+" tvg-logo="https://iptv-epg.org/logos/Poland/Novelas%2B.pl.png" group-title="ROZRYWKA",NOVELAS+
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227272&extension=ts
-#EXTINF:-1 tvg-id="Nutatv.pl" tvg-name="PL - Nuta.TV" tvg-logo="https://iptv-epg.org/logos/Poland/Nutatv.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ NUTA TV
+#EXTINF:-1 tvg-id="Nutatv.pl" tvg-name="PL - Nuta.TV" tvg-logo="https://iptv-epg.org/logos/Poland/Nutatv.pl.png" group-title="MUZYKA",NUTA TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227393&extension=ts
-#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="PL - Power TV" tvg-logo="https://iptv-epg.org/logos/Poland/PowerTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ POWER TV
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="PL - Power TV" tvg-logo="https://iptv-epg.org/logos/Poland/PowerTV.pl.png" group-title="MUZYKA",POWER TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227392&extension=ts
-#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="PL - MTV Live" tvg-logo="https://iptv-epg.org/logos/Poland/MTVLive.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV LIVE HD
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="PL - MTV Live" tvg-logo="https://iptv-epg.org/logos/Poland/MTVLive.pl.png" group-title="MUZYKA",MTV LIVE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227369&extension=ts
-#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="PL - Eska Rock TV" tvg-logo="https://iptv-epg.org/logos/Poland/EskaRockTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV ROCKS
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="PL - Eska Rock TV" tvg-logo="https://iptv-epg.org/logos/Poland/EskaRockTV.pl.png" group-title="MUZYKA",MTV ROCKS
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227366&extension=ts
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="PL - Kino Polska Muzyka" tvg-logo="https://iptv-epg.org/logos/Poland/KinoPolskaMuzyka.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ KINO POLSKA MUZYKA
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="PL - Kino Polska Muzyka" tvg-logo="https://iptv-epg.org/logos/Poland/KinoPolskaMuzyka.pl.png" group-title="MUZYKA",KINO POLSKA MUZYKA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227365&extension=ts
-#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="PL - MTV Polska" tvg-logo="https://iptv-epg.org/logos/Poland/MTVPolska.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV POLSKA HD
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="PL - MTV Polska" tvg-logo="https://iptv-epg.org/logos/Poland/MTVPolska.pl.png" group-title="MUZYKA",MTV POLSKA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227364&extension=ts
-#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="PL - VOX Music TV" tvg-logo="https://iptv-epg.org/logos/Poland/VOXMusicTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV MUSIC
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="PL - VOX Music TV" tvg-logo="https://iptv-epg.org/logos/Poland/VOXMusicTV.pl.png" group-title="MUZYKA",MTV MUSIC
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227363&extension=ts
-#EXTINF:-1 tvg-id="GOLDTV.pl" tvg-name="PL - GOLD TV" tvg-logo="https://iptv-epg.org/logos/Poland/GOLDTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ GOLD TV
+#EXTINF:-1 tvg-id="GOLDTV.pl" tvg-name="PL - GOLD TV" tvg-logo="https://iptv-epg.org/logos/Poland/GOLDTV.pl.png" group-title="MUZYKA",GOLD TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227361&extension=ts
-#EXTINF:-1 tvg-id="4FUNtv.pl" tvg-name="PL - 4FUN.TV" tvg-logo="https://iptv-epg.org/logos/Poland/4FUNtv.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ 4FUN.TV
+#EXTINF:-1 tvg-id="4FUNtv.pl" tvg-name="PL - 4FUN.TV" tvg-logo="https://iptv-epg.org/logos/Poland/4FUNtv.pl.png" group-title="MUZYKA",4FUN.TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227341&extension=ts
-#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="PL - Polsat Music" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatMusic.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ POLSAT MUSIC HD
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="PL - Polsat Music" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatMusic.pl.png" group-title="MUZYKA",POLSAT MUSIC HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227340&extension=ts
-#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="PL - VOX Music TV" tvg-logo="https://iptv-epg.org/logos/Poland/VOXMusicTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ VOX MUSIC TV
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="PL - VOX Music TV" tvg-logo="https://iptv-epg.org/logos/Poland/VOXMusicTV.pl.png" group-title="MUZYKA",VOX MUSIC TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227339&extension=ts
-#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="PL - Eska Rock TV" tvg-logo="https://iptv-epg.org/logos/Poland/EskaRockTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ ESKA ROCK TV
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="PL - Eska Rock TV" tvg-logo="https://iptv-epg.org/logos/Poland/EskaRockTV.pl.png" group-title="MUZYKA",ESKA ROCK TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227338&extension=ts
-#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL - Eska TV" tvg-logo="https://iptv-epg.org/logos/Poland/EskaTV.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ ESKA TV
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL - Eska TV" tvg-logo="https://iptv-epg.org/logos/Poland/EskaTV.pl.png" group-title="MUZYKA",ESKA TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227337&extension=ts
-#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="PL - Eska TV Extra" tvg-logo="https://iptv-epg.org/logos/Poland/EskaTVExtra.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ ESKA TV EXTRA
+#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="PL - Eska TV Extra" tvg-logo="https://iptv-epg.org/logos/Poland/EskaTVExtra.pl.png" group-title="MUZYKA",ESKA TV EXTRA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227336&extension=ts
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="PL - Disco Polo Music" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoPoloMusic.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ DISCO POLO MUSIC
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="PL - Disco Polo Music" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoPoloMusic.pl.png" group-title="MUZYKA",DISCO POLO MUSIC
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227321&extension=ts
-#EXTINF:-1 tvg-id="4FUNtv.pl" tvg-name="PL - 4FUN.TV" tvg-logo="https://iptv-epg.org/logos/Poland/4FUNtv.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ 4FUN GOLD HITS
+#EXTINF:-1 tvg-id="4FUNtv.pl" tvg-name="PL - 4FUN.TV" tvg-logo="https://iptv-epg.org/logos/Poland/4FUNtv.pl.png" group-title="MUZYKA",4FUN GOLD HITS
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227320&extension=ts
-#EXTINF:-1 tvg-id="4FUNDANCE.pl" tvg-name="PL - 4FUN DANCE" tvg-logo="https://iptv-epg.org/logos/Poland/4FUNDANCE.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ 4FUN DANCE
+#EXTINF:-1 tvg-id="4FUNDANCE.pl" tvg-name="PL - 4FUN DANCE" tvg-logo="https://iptv-epg.org/logos/Poland/4FUNDANCE.pl.png" group-title="MUZYKA",4FUN DANCE
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227319&extension=ts
-#EXTINF:-1 tvg-id="BabyTV.pl" tvg-name="PL - Baby TV" tvg-logo="https://iptv-epg.org/logos/Poland/BabyTV.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ BABY TV
+#EXTINF:-1 tvg-id="BabyTV.pl" tvg-name="PL - Baby TV" tvg-logo="https://iptv-epg.org/logos/Poland/BabyTV.pl.png" group-title="BAJKI",BABY TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227384&extension=ts
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ POLSAT JIM JAM
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="BAJKI",POLSAT JIM JAM
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227383&extension=ts
-#EXTINF:-1 tvg-id="Cartoonito.pl" tvg-name="PL - Cartoonito" tvg-logo="https://iptv-epg.org/logos/Poland/Cartoonito.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ CARTOONITO HD
+#EXTINF:-1 tvg-id="Cartoonito.pl" tvg-name="PL - Cartoonito" tvg-logo="https://iptv-epg.org/logos/Poland/Cartoonito.pl.png" group-title="BAJKI",CARTOONITO HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227382&extension=ts
-#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="PL - Cartoon Network" tvg-logo="https://iptv-epg.org/logos/Poland/CartoonNetwork.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="PL - Cartoon Network" tvg-logo="https://iptv-epg.org/logos/Poland/CartoonNetwork.pl.png" group-title="BAJKI",CARTOON NETWORK HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227381&extension=ts
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL - Disney XD" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyXD.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ DISNEY XD
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL - Disney XD" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyXD.pl.png" group-title="BAJKI",DISNEY XD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227380&extension=ts
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyJunior.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="PL - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyJunior.pl.png" group-title="BAJKI",DISNEY JUNIOR
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227379&extension=ts
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL - Disney XD" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyXD.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL - Disney XD" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyXD.pl.png" group-title="BAJKI",DISNEY CHANNEL HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227378&extension=ts
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-name="PL - Nick Jr." tvg-logo="https://iptv-epg.org/logos/Poland/NickJr.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ NICK JR
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227377&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="PL - Nickelodeon" tvg-logo="https://iptv-epg.org/logos/Poland/Nickelodeon.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="PL - Nickelodeon" tvg-logo="https://iptv-epg.org/logos/Poland/Nickelodeon.pl.png" group-title="BAJKI",NICKELODEON
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227376&extension=ts
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="PL - Nicktoons" tvg-logo="https://iptv-epg.org/logos/Poland/Nicktoons.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ NICKTOONS HD
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="PL - Nicktoons" tvg-logo="https://iptv-epg.org/logos/Poland/Nicktoons.pl.png" group-title="BAJKI",NICKTOONS HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227375&extension=ts
-#EXTINF:-1 tvg-id="teleTOON+.pl" tvg-name="PL - teleTOON+" tvg-logo="https://iptv-epg.org/logos/Poland/teleTOON%2B.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ TELETOON  HD
+#EXTINF:-1 tvg-id="teleTOON+.pl" tvg-name="PL - teleTOON+" tvg-logo="https://iptv-epg.org/logos/Poland/teleTOON%2B.pl.png" group-title="BAJKI",TELETOON  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227374&extension=ts
-#EXTINF:-1 tvg-id="MiniMini+.pl" tvg-name="PL - MiniMini+" tvg-logo="https://iptv-epg.org/logos/Poland/MiniMini%2B.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ MINIMINI  HD
+#EXTINF:-1 tvg-id="MiniMini+.pl" tvg-name="PL - MiniMini+" tvg-logo="https://iptv-epg.org/logos/Poland/MiniMini%2B.pl.png" group-title="BAJKI",MINIMINI  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227373&extension=ts
-#EXTINF:-1 tvg-id="BBCCBeebies.pl" tvg-name="PL - BBC CBeebies" tvg-logo="https://iptv-epg.org/logos/Poland/BBCCBeebies.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ BBC CBEEBIES
+#EXTINF:-1 tvg-id="BBCCBeebies.pl" tvg-name="PL - BBC CBeebies" tvg-logo="https://iptv-epg.org/logos/Poland/BBCCBeebies.pl.png" group-title="BAJKI",BBC CBEEBIES
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227372&extension=ts
-#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="PL - Polsat Games" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatGames.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ POLSAT GAMES
+#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="PL - Polsat Games" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatGames.pl.png" group-title="BAJKI",POLSAT GAMES
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227371&extension=ts
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL - TVP ABC" tvg-logo="https://iptv-epg.org/logos/Poland/TVPABC.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ TVP ABC
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL - TVP ABC" tvg-logo="https://iptv-epg.org/logos/Poland/TVPABC.pl.png" group-title="BAJKI",TVP ABC
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227360&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-name="PL - Polsat Sport 2" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport2.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT 2 HD
+#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-name="PL - Polsat Sport 2" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport2.pl.png" group-title="SPORT",POLSAT SPORT 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227311&extension=ts
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL - Polsat Sport Fight" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSportFight.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT FIGHT HD
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL - Polsat Sport Fight" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSportFight.pl.png" group-title="SPORT",POLSAT SPORT FIGHT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227310&extension=ts
-#EXTINF:-1 tvg-id="CANAL+Sport.pl" tvg-name="PL - CANAL+ Sport" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport.pl.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT HD
+#EXTINF:-1 tvg-id="CANAL+Sport.pl" tvg-name="PL - CANAL+ Sport" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport.pl.png" group-title="SPORT",CANAL+ SPORT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227309&extension=ts
-#EXTINF:-1 tvg-id="CANAL+Sport2.pl" tvg-name="PL - CANAL+ Sport 2" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport2.pl.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 2 HD
+#EXTINF:-1 tvg-id="CANAL+Sport2.pl" tvg-name="PL - CANAL+ Sport 2" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport2.pl.png" group-title="SPORT",CANAL+ SPORT 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227308&extension=ts
-#EXTINF:-1 tvg-id="CANAL+Sport3.pl" tvg-name="PL - CANAL+ Sport 3" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport3.pl.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 3 HD
+#EXTINF:-1 tvg-id="CANAL+Sport3.pl" tvg-name="PL - CANAL+ Sport 3" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport3.pl.png" group-title="SPORT",CANAL+ SPORT 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227307&extension=ts
-#EXTINF:-1 tvg-id="CANAL+Sport4.pl" tvg-name="PL - CANAL+ Sport 4" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport4.pl.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="CANAL+Sport4.pl" tvg-name="PL - CANAL+ Sport 4" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport4.pl.png" group-title="SPORT",CANAL+ SPORT 4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227306&extension=ts
-#EXTINF:-1 tvg-id="CANAL+Sport5.pl" tvg-name="PL - CANAL+ Sport 5" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport5.pl.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 5 HD
+#EXTINF:-1 tvg-id="CANAL+Sport5.pl" tvg-name="PL - CANAL+ Sport 5" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BSport5.pl.png" group-title="SPORT",CANAL+ SPORT 5 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227305&extension=ts
-#EXTINF:-1 tvg-id="Sportklub.pl" tvg-name="PL - Sportklub" tvg-logo="https://iptv-epg.org/logos/Poland/Sportklub.pl.png" group-title="┃PL┃ SPORT",┃PL┃ SPORT KLUB HD
+#EXTINF:-1 tvg-id="Sportklub.pl" tvg-name="PL - Sportklub" tvg-logo="https://iptv-epg.org/logos/Poland/Sportklub.pl.png" group-title="SPORT",SPORT KLUB HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227304&extension=ts
-#EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="PL - Eurosport 1" tvg-logo="https://iptv-epg.org/logos/Poland/Eurosport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="PL - Eurosport 1" tvg-logo="https://iptv-epg.org/logos/Poland/Eurosport1.pl.png" group-title="SPORT",EUROSPORT 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227303&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="PL - Eurosport 2" tvg-logo="https://iptv-epg.org/logos/Poland/Eurosport2.pl.png" group-title="┃PL┃ SPORT",┃PL┃ EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="PL - Eurosport 2" tvg-logo="https://iptv-epg.org/logos/Poland/Eurosport2.pl.png" group-title="SPORT",EUROSPORT 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227302&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227301&extension=ts
-#EXTINF:-1 tvg-id="ExtremeChannel.pl" tvg-name="PL - Extreme Channel" tvg-logo="https://iptv-epg.org/logos/Poland/ExtremeChannel.pl.png" group-title="┃PL┃ SPORT",┃PL┃ EXTREME SPORTS HD
+#EXTINF:-1 tvg-id="ExtremeChannel.pl" tvg-name="PL - Extreme Channel" tvg-logo="https://iptv-epg.org/logos/Poland/ExtremeChannel.pl.png" group-title="SPORT",EXTREME SPORTS HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227300&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 1 HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT PREM. 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227299&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 2 HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT PREM. 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227298&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 3 HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT PREM. 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227297&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 4 HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT PREM. 4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227296&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 5 HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT PREM. 5 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227295&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM  PPV6 HD
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="PL - Polsat Sport 1" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport1.pl.png" group-title="SPORT",POLSAT SPORT PREM  PPV6 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227294&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL - Eleven Sports 1" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports1.pl.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 1 HD
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="PL - Eleven Sports 1" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports1.pl.png" group-title="SPORT",ELEVEN SPORT 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227293&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="PL - Eleven Sports 2" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports2.pl.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 2 HD
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="PL - Eleven Sports 2" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports2.pl.png" group-title="SPORT",ELEVEN SPORT 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227292&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="PL - Eleven Sports 3" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports3.pl.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 3 HD
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="PL - Eleven Sports 3" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports3.pl.png" group-title="SPORT",ELEVEN SPORT 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227291&extension=ts
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="PL - Eleven Sports 4" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports4.pl.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 4 HD
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="PL - Eleven Sports 4" tvg-logo="https://iptv-epg.org/logos/Poland/ElevenSports4.pl.png" group-title="SPORT",ELEVEN SPORT 4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227290&extension=ts
-#EXTINF:-1 tvg-id="gotv.pl" tvg-name="PL - gotv" tvg-logo="https://iptv-epg.org/logos/Poland/gotv.pl.png" group-title="┃PL┃ SPORT",┃PL┃ GOLF CHANNEL
+#EXTINF:-1 tvg-id="gotv.pl" tvg-name="PL - gotv" tvg-logo="https://iptv-epg.org/logos/Poland/gotv.pl.png" group-title="SPORT",GOLF CHANNEL
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227289&extension=ts
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="PL - FightBox" tvg-logo="https://iptv-epg.org/logos/Poland/FightBox.pl.png" group-title="┃PL┃ SPORT",┃PL┃ FIGHTBOX HD
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="PL - FightBox" tvg-logo="https://iptv-epg.org/logos/Poland/FightBox.pl.png" group-title="SPORT",FIGHTBOX HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227288&extension=ts
-#EXTINF:-1 tvg-id="Fightklub.pl" tvg-name="PL - Fightklub" tvg-logo="https://iptv-epg.org/logos/Poland/Fightklub.pl.png" group-title="┃PL┃ SPORT",┃PL┃ FIGHTKLUB HD
+#EXTINF:-1 tvg-id="Fightklub.pl" tvg-name="PL - Fightklub" tvg-logo="https://iptv-epg.org/logos/Poland/Fightklub.pl.png" group-title="SPORT",FIGHTKLUB HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227287&extension=ts
-#EXTINF:-1 tvg-id="KSW.pl" tvg-name="PL - KSW" tvg-logo="https://iptv-epg.org/logos/Poland/KSW.pl.png" group-title="┃PL┃ SPORT",┃PL┃ PPV KSW FIGHTS (LIVE ON MATCHES)
+#EXTINF:-1 tvg-id="KSW.pl" tvg-name="PL - KSW" tvg-logo="https://iptv-epg.org/logos/Poland/KSW.pl.png" group-title="SPORT",PPV KSW FIGHTS (LIVE ON MATCHES)
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227286&extension=ts
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL - TVP Sport" tvg-logo="https://iptv-epg.org/logos/Poland/TVPSport.pl.png" group-title="┃PL┃ SPORT",┃PL┃ TVP SPORT HD
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL - TVP Sport" tvg-logo="https://iptv-epg.org/logos/Poland/TVPSport.pl.png" group-title="SPORT",TVP SPORT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227285&extension=ts
-#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-name="PL - Polsat Sport 3" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport3.pl.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT 3 HD
+#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-name="PL - Polsat Sport 3" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatSport3.pl.png" group-title="SPORT",POLSAT SPORT 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227284&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 1 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 1 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086791&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 2 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 2 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086792&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 3 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 3 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086793&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 4 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 4 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086794&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 5 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 5 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086795&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 6 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 6 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086796&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 7 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 7 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086797&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 8 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 8 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086798&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 9 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 9 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086799&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ SPORT HBO MAX",┃PL┃ Event 10 (HBO MAX)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORT",Event 10 (HBO MAX)
 http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086800&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 1 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=879145&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 2 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=879146&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 3 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=879147&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 4 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=879148&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 5 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 5 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030298&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 6 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 6 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030299&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 7 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 7 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030300&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 8 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 8 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030301&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 9 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 9 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030302&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 10 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 10 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030303&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 11 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 11 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030304&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 12 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 12 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030305&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 13 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 13 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030306&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 14 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 14 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030307&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 15 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 15 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030308&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 16 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 16 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030309&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 17 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 17 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030310&extension=ts
-#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 18 HD
+#EXTINF:-1 tvg-id="CANAL+EXTRA1.pl" tvg-name="PL - CANAL+EXTRA1" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BEXTRA1.pl.png" group-title="CANAL+ EXTRA",CANAL+ EXTRA 18 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1030311&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 1 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227513&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227512&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 3 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227511&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 4 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227510&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 5 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227509&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 6 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227508&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 7 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227507&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 8 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227506&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 9 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227505&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 10 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227504&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 11 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227503&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 12 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227502&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 13 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227501&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 14 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 14 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227500&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 15 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 15 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227499&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 16 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 16 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227498&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 17 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 17 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227497&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 18 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 18 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227496&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 19 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 19 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227495&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 20 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 20 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227494&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 21 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 21 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227493&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 22 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 22 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227492&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 23 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 23 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227491&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 24 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227490&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 25 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 25 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227489&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 26 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 26 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227488&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 27 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 27 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227487&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 28 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 28 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227486&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 29 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 29 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227485&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 30 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 30 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227484&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 31 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 31 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227483&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 32 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 32 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227482&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 33 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 33 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227481&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 34 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 34 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227480&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 35 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 35 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227479&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 36 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 36 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227478&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 37 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 37 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227477&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 38 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 38 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227476&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 39 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 39 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227475&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 40 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 40 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227474&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 41 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 41 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227473&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 42 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 42 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227472&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 43 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 43 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227471&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 44 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 44 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227470&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 45 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 45 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227469&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 46 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 46 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227468&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 47 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 47 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227467&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 48 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 48 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227466&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 49 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ VIAPLAY",VIAPLAY XTRA 49 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227465&extension=ts
