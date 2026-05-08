@@ -219,117 +219,117 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227400&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227399&extension=ts
 #EXTINF:-1 tvg-id="CANAL+DOMO.pl" tvg-name="PL - CANAL+ DOMO" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BDOMO.pl.png" group-title="DOKUMENTALNE",DOMO+  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227398&extension=ts
-#EXTINF:-1 tvg-id="DTX.pl" tvg-name="PL - DTX" tvg-logo="https://iptv-epg.org/logos/Poland/DTX.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DTX
+#EXTINF:-1 tvg-id="DTX.pl" tvg-name="PL - DTX" tvg-logo="https://iptv-epg.org/logos/Poland/DTX.pl.png" group-title="DOKUMENTALNE",DTX
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227397&extension=ts
-#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL - Fokus TV" tvg-logo="https://iptv-epg.org/logos/Poland/FokusTV.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ FOKUS TV
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL - Fokus TV" tvg-logo="https://iptv-epg.org/logos/Poland/FokusTV.pl.png" group-title="DOKUMENTALNE",FOKUS TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227396&extension=ts
-#EXTINF:-1 tvg-id="CANAL+KUCHNIA.pl" tvg-name="PL - CANAL+ KUCHNIA" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BKUCHNIA.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ KUCHNIA HD
+#EXTINF:-1 tvg-id="CANAL+KUCHNIA.pl" tvg-name="PL - CANAL+ KUCHNIA" tvg-logo="https://iptv-epg.org/logos/Poland/CANAL%2BKUCHNIA.pl.png" group-title="DOKUMENTALNE",KUCHNIA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227395&extension=ts
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL - Motowizja" tvg-logo="https://iptv-epg.org/logos/Poland/Motowizja.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ MOTOWIZJA TV HD
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL - Motowizja" tvg-logo="https://iptv-epg.org/logos/Poland/Motowizja.pl.png" group-title="DOKUMENTALNE",MOTOWIZJA TV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227394&extension=ts
-#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="PL - BBC Brit" tvg-logo="https://iptv-epg.org/logos/Poland/BBCBrit.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ BBC BRIT
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="PL - BBC Brit" tvg-logo="https://iptv-epg.org/logos/Poland/BBCBrit.pl.png" group-title="DOKUMENTALNE",BBC BRIT
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227387&extension=ts
-#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="PL - BBC Lifestyle" tvg-logo="https://iptv-epg.org/logos/Poland/BBCLifestyle.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ BBC LIFESTYLE HD
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="PL - BBC Lifestyle" tvg-logo="https://iptv-epg.org/logos/Poland/BBCLifestyle.pl.png" group-title="DOKUMENTALNE",BBC LIFESTYLE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227386&extension=ts
-#EXTINF:-1 tvg-id="METRO.pl" tvg-name="PL - METRO" tvg-logo="https://iptv-epg.org/logos/Poland/METRO.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ METRO
+#EXTINF:-1 tvg-id="METRO.pl" tvg-name="PL - METRO" tvg-logo="https://iptv-epg.org/logos/Poland/METRO.pl.png" group-title="DOKUMENTALNE",METRO
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227356&extension=ts
-#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="PL - HGTV" tvg-logo="https://iptv-epg.org/logos/Poland/HGTV.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ HGTV HD
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="PL - HGTV" tvg-logo="https://iptv-epg.org/logos/Poland/HGTV.pl.png" group-title="DOKUMENTALNE",HGTV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227351&extension=ts
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL - Nat Geo People" tvg-logo="https://iptv-epg.org/logos/Poland/NatGeoPeople.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ NGC PEOPLE HD
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="PL - Nat Geo People" tvg-logo="https://iptv-epg.org/logos/Poland/NatGeoPeople.pl.png" group-title="DOKUMENTALNE",NGC PEOPLE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227335&extension=ts
-#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="PL - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Poland/AnimalPlanet.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="PL - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Poland/AnimalPlanet.pl.png" group-title="DOKUMENTALNE",ANIMAL PLANET HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227334&extension=ts
-#EXTINF:-1 tvg-id="Planete+.pl" tvg-name="PL - Planete+" tvg-logo="https://iptv-epg.org/logos/Poland/Planete%2B.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ PLANETE  HD
+#EXTINF:-1 tvg-id="Planete+.pl" tvg-name="PL - Planete+" tvg-logo="https://iptv-epg.org/logos/Poland/Planete%2B.pl.png" group-title="DOKUMENTALNE",PLANETE  HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227333&extension=ts
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CI POLSAT HD
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="PL - Polsat" tvg-logo="https://iptv-epg.org/logos/Poland/Polsat.pl.png" group-title="DOKUMENTALNE",CI POLSAT HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227332&extension=ts
-#EXTINF:-1 tvg-id="HISTORY.pl" tvg-name="PL - HISTORY" tvg-logo="https://iptv-epg.org/logos/Poland/HISTORY.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ HISTORY HD
+#EXTINF:-1 tvg-id="HISTORY.pl" tvg-name="PL - HISTORY" tvg-logo="https://iptv-epg.org/logos/Poland/HISTORY.pl.png" group-title="DOKUMENTALNE",HISTORY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227331&extension=ts
-#EXTINF:-1 tvg-id="2x2.pl" tvg-name="PL - 2x2" tvg-logo="https://iptv-epg.org/logos/Poland/2x2.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ ID HD
+#EXTINF:-1 tvg-id="2x2.pl" tvg-name="PL - 2x2" tvg-logo="https://iptv-epg.org/logos/Poland/2x2.pl.png" group-title="DOKUMENTALNE",ID HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227330&extension=ts
-#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="PL - BBC Earth" tvg-logo="https://iptv-epg.org/logos/Poland/BBCEarth.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ BBC EARTH HD
+#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="PL - BBC Earth" tvg-logo="https://iptv-epg.org/logos/Poland/BBCEarth.pl.png" group-title="DOKUMENTALNE",BBC EARTH HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227328&extension=ts
-#EXTINF:-1 tvg-id="HR.pl" tvg-name="PL - HR" tvg-logo="https://iptv-epg.org/logos/Poland/HR.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ H2 HD
+#EXTINF:-1 tvg-id="HR.pl" tvg-name="PL - HR" tvg-logo="https://iptv-epg.org/logos/Poland/HR.pl.png" group-title="DOKUMENTALNE",H2 HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227327&extension=ts
-#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="PL - Discovery Science" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryScience.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="PL - Discovery Science" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryScience.pl.png" group-title="DOKUMENTALNE",DISCOVERY SCIENCE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227325&extension=ts
-#EXTINF:-1 tvg-id="DiscoveryNiem.pl" tvg-name="PL - Discovery (niem.)" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryNiem.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY HD
+#EXTINF:-1 tvg-id="DiscoveryNiem.pl" tvg-name="PL - Discovery (niem.)" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryNiem.pl.png" group-title="DOKUMENTALNE",DISCOVERY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227324&extension=ts
-#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="PL - Discovery Life" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryLife.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY LIFE HD
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="PL - Discovery Life" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryLife.pl.png" group-title="DOKUMENTALNE",DISCOVERY LIFE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227323&extension=ts
-#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="PL - Discovery Historia" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryHistoria.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY HISTORIA
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="PL - Discovery Historia" tvg-logo="https://iptv-epg.org/logos/Poland/DiscoveryHistoria.pl.png" group-title="DOKUMENTALNE",DISCOVERY HISTORIA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227322&extension=ts
-#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="PL - Polsat Viasat Explore" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatViasatExplore.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ POLSAT VIASAT EXPLORE HD
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="PL - Polsat Viasat Explore" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatViasatExplore.pl.png" group-title="DOKUMENTALNE",POLSAT VIASAT EXPLORE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227318&extension=ts
-#EXTINF:-1 tvg-id="n-tv.pl" tvg-name="PL - n-tv" tvg-logo="https://iptv-epg.org/logos/Poland/n-tv.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ NGC WILD HD
+#EXTINF:-1 tvg-id="n-tv.pl" tvg-name="PL - n-tv" tvg-logo="https://iptv-epg.org/logos/Poland/n-tv.pl.png" group-title="DOKUMENTALNE",NGC WILD HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227317&extension=ts
-#EXTINF:-1 tvg-id="WaterPlanet.pl" tvg-name="PL - Water Planet" tvg-logo="https://iptv-epg.org/logos/Poland/WaterPlanet.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ WATER PLANET
+#EXTINF:-1 tvg-id="WaterPlanet.pl" tvg-name="PL - Water Planet" tvg-logo="https://iptv-epg.org/logos/Poland/WaterPlanet.pl.png" group-title="DOKUMENTALNE",WATER PLANET
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227316&extension=ts
-#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="PL - Polsat Viasat History" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatViasatHistory.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ POLSAT VIASAT HISTORY HD
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="PL - Polsat Viasat History" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatViasatHistory.pl.png" group-title="DOKUMENTALNE",POLSAT VIASAT HISTORY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227315&extension=ts
-#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="PL - Polsat Viasat Nature" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatViasatNature.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ POLSAT VIASAT NATURE HD
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="PL - Polsat Viasat Nature" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatViasatNature.pl.png" group-title="DOKUMENTALNE",POLSAT VIASAT NATURE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227314&extension=ts
-#EXTINF:-1 tvg-id="n-tv.pl" tvg-name="PL - n-tv" tvg-logo="https://iptv-epg.org/logos/Poland/n-tv.pl.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ NGC HD
+#EXTINF:-1 tvg-id="n-tv.pl" tvg-name="PL - n-tv" tvg-logo="https://iptv-epg.org/logos/Poland/n-tv.pl.png" group-title="DOKUMENTALNE",NGC HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227313&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CRIME & INVESTIGATION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTALNE",CRIME & INVESTIGATION HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227312&extension=ts
-#EXTINF:-1 tvg-id="FOX.pl" tvg-name="PL - FOX" tvg-logo="https://iptv-epg.org/logos/Poland/FOX.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ FX HD
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="PL - FOX" tvg-logo="https://iptv-epg.org/logos/Poland/FOX.pl.png" group-title="DOKUMENTALNE",FX HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227421&extension=ts
-#EXTINF:-1 tvg-id="FOXComedy.pl" tvg-name="PL - FOX Comedy" tvg-logo="https://iptv-epg.org/logos/Poland/FOXComedy.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ FX COMEDY HD
+#EXTINF:-1 tvg-id="FOXComedy.pl" tvg-name="PL - FOX Comedy" tvg-logo="https://iptv-epg.org/logos/Poland/FOXComedy.pl.png" group-title="┃PL┃ ROZRYWKA",FX COMEDY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227420&extension=ts
-#EXTINF:-1 tvg-id="AXN.pl" tvg-name="PL - AXN" tvg-logo="https://iptv-epg.org/logos/Poland/AXN.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN HD
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="PL - AXN" tvg-logo="https://iptv-epg.org/logos/Poland/AXN.pl.png" group-title="ROZRYWKA",AXN HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227419&extension=ts
-#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="PL - AXN White" tvg-logo="https://iptv-epg.org/logos/Poland/AXNWhite.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN WHITE
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="PL - AXN White" tvg-logo="https://iptv-epg.org/logos/Poland/AXNWhite.pl.png" group-title="ROZRYWKA",AXN WHITE
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227418&extension=ts
-#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="PL - AXN Black" tvg-logo="https://iptv-epg.org/logos/Poland/AXNBlack.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN BLACK
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="PL - AXN Black" tvg-logo="https://iptv-epg.org/logos/Poland/AXNBlack.pl.png" group-title="ROZRYWKA",AXN BLACK
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227417&extension=ts
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="PL - AXN Spin" tvg-logo="https://iptv-epg.org/logos/Poland/AXNSpin.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN SPIN HD
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="PL - AXN Spin" tvg-logo="https://iptv-epg.org/logos/Poland/AXNSpin.pl.png" group-title="ROZRYWKA",AXN SPIN HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227416&extension=ts
-#EXTINF:-1 tvg-id="Syfy.pl" tvg-name="PL - Syfy" tvg-logo="https://iptv-epg.org/logos/Poland/Syfy.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ SYFY HD
+#EXTINF:-1 tvg-id="Syfy.pl" tvg-name="PL - Syfy" tvg-logo="https://iptv-epg.org/logos/Poland/Syfy.pl.png" group-title="ROZRYWKA",SYFY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227415&extension=ts
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL - 13 Ulica" tvg-logo="https://iptv-epg.org/logos/Poland/13Ulica.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ 13 ULICA HD
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="PL - 13 Ulica" tvg-logo="https://iptv-epg.org/logos/Poland/13Ulica.pl.png" group-title="ROZRYWKA",13 ULICA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227414&extension=ts
-#EXTINF:-1 tvg-id="E!Entertainment.pl" tvg-name="PL - E! Entertainment" tvg-logo="https://iptv-epg.org/logos/Poland/E%21Entertainment.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="E!Entertainment.pl" tvg-name="PL - E! Entertainment" tvg-logo="https://iptv-epg.org/logos/Poland/E%21Entertainment.pl.png" group-title="ROZRYWKA",E! ENTERTAINMENT
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227413&extension=ts
-#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="PL - CBS Europa" tvg-logo="https://iptv-epg.org/logos/Poland/CBSEuropa.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ CBS EUROPA HD
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="PL - CBS Europa" tvg-logo="https://iptv-epg.org/logos/Poland/CBSEuropa.pl.png" group-title="ROZRYWKA",CBS EUROPA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227411&extension=ts
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL - Comedy Central" tvg-logo="https://iptv-epg.org/logos/Poland/ComedyCentral.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="PL - Comedy Central" tvg-logo="https://iptv-epg.org/logos/Poland/ComedyCentral.pl.png" group-title="ROZRYWKA",COMEDY CENTRAL HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227409&extension=ts
-#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="PL - Paramount Network" tvg-logo="https://iptv-epg.org/logos/Poland/ParamountNetwork.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="PL - Paramount Network" tvg-logo="https://iptv-epg.org/logos/Poland/ParamountNetwork.pl.png" group-title="ROZRYWKA",PARAMOUNT CHANNEL HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227407&extension=ts
-#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL - AMC" tvg-logo="https://iptv-epg.org/logos/Poland/AMC.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AMC
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="PL - AMC" tvg-logo="https://iptv-epg.org/logos/Poland/AMC.pl.png" group-title="ROZRYWKA",AMC
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227406&extension=ts
-#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="PL - Romance TV" tvg-logo="https://iptv-epg.org/logos/Poland/RomanceTV.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ ROMANCE TV
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="PL - Romance TV" tvg-logo="https://iptv-epg.org/logos/Poland/RomanceTV.pl.png" group-title="ROZRYWKA",ROMANCE TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227390&extension=ts
-#EXTINF:-1 tvg-id="WP.pl" tvg-name="PL - WP" tvg-logo="https://iptv-epg.org/logos/Poland/WP.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ WP
+#EXTINF:-1 tvg-id="WP.pl" tvg-name="PL - WP" tvg-logo="https://iptv-epg.org/logos/Poland/WP.pl.png" group-title="ROZRYWKA",WP
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227389&extension=ts
-#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="PL - Active Family" tvg-logo="https://iptv-epg.org/logos/Poland/ActiveFamily.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ ACTIVE FAMILY
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="PL - Active Family" tvg-logo="https://iptv-epg.org/logos/Poland/ActiveFamily.pl.png" group-title="ROZRYWKA",ACTIVE FAMILY
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227388&extension=ts
-#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="PL - BBC First" tvg-logo="https://iptv-epg.org/logos/Poland/BBCFirst.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ BBC FIRST HD
+#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="PL - BBC First" tvg-logo="https://iptv-epg.org/logos/Poland/BBCFirst.pl.png" group-title="ROZRYWKA",BBC FIRST HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227385&extension=ts
-#EXTINF:-1 tvg-id="ZOOMTV.pl" tvg-name="PL - ZOOM TV" tvg-logo="https://iptv-epg.org/logos/Poland/ZOOMTV.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ ZOOM TV
+#EXTINF:-1 tvg-id="ZOOMTV.pl" tvg-name="PL - ZOOM TV" tvg-logo="https://iptv-epg.org/logos/Poland/ZOOMTV.pl.png" group-title="ROZRYWKA",ZOOM TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227355&extension=ts
-#EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="PL - Sundance TV" tvg-logo="https://iptv-epg.org/logos/Poland/SundanceTV.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ SUNDANCE HD
+#EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="PL - Sundance TV" tvg-logo="https://iptv-epg.org/logos/Poland/SundanceTV.pl.png" group-title="ROZRYWKA",SUNDANCE HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227353&extension=ts
-#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL - Nowa TV" tvg-logo="https://iptv-epg.org/logos/Poland/NowaTV.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ NOWA TV
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="PL - Nowa TV" tvg-logo="https://iptv-epg.org/logos/Poland/NowaTV.pl.png" group-title="ROZRYWKA",NOWA TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227350&extension=ts
-#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="PL - TV Okazje" tvg-logo="https://iptv-epg.org/logos/Poland/TVOkazje.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ TV OKAZJE
+#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="PL - TV Okazje" tvg-logo="https://iptv-epg.org/logos/Poland/TVOkazje.pl.png" group-title="ROZRYWKA",TV OKAZJE
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227349&extension=ts
-#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="PL - CBS Reality" tvg-logo="https://iptv-epg.org/logos/Poland/CBSReality.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ CBS REALITY
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="PL - CBS Reality" tvg-logo="https://iptv-epg.org/logos/Poland/CBSReality.pl.png" group-title="ROZRYWKA",CBS REALITY
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227348&extension=ts
-#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="PL - Epic Drama" tvg-logo="https://iptv-epg.org/logos/Poland/EpicDrama.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ EPIC DRAMA HD
+#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="PL - Epic Drama" tvg-logo="https://iptv-epg.org/logos/Poland/EpicDrama.pl.png" group-title="ROZRYWKA",EPIC DRAMA HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227347&extension=ts
-#EXTINF:-1 tvg-id="WarnerTV.pl" tvg-name="PL - Warner TV" tvg-logo="https://iptv-epg.org/logos/Poland/WarnerTV.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ WARNER HD
+#EXTINF:-1 tvg-id="WarnerTV.pl" tvg-name="PL - Warner TV" tvg-logo="https://iptv-epg.org/logos/Poland/WarnerTV.pl.png" group-title="ROZRYWKA",WARNER HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227346&extension=ts
-#EXTINF:-1 tvg-id="STOPKLATKA.pl" tvg-name="PL - STOPKLATKA" tvg-logo="https://iptv-epg.org/logos/Poland/STOPKLATKA.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ STOPKLATKA TV
+#EXTINF:-1 tvg-id="STOPKLATKA.pl" tvg-name="PL - STOPKLATKA" tvg-logo="https://iptv-epg.org/logos/Poland/STOPKLATKA.pl.png" group-title="ROZRYWKA",STOPKLATKA TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227343&extension=ts
-#EXTINF:-1 tvg-id="STARStv.pl" tvg-name="PL - STARS.TV" tvg-logo="https://iptv-epg.org/logos/Poland/STARStv.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ STARS.TV
+#EXTINF:-1 tvg-id="STARStv.pl" tvg-name="PL - STARS.TV" tvg-logo="https://iptv-epg.org/logos/Poland/STARStv.pl.png" group-title="ROZRYWKA",STARS.TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227342&extension=ts
-#EXTINF:-1 tvg-id="StudioMEDTV.pl" tvg-name="PL - StudioMED TV" tvg-logo="https://iptv-epg.org/logos/Poland/StudioMEDTV.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ STUDIOMED TV HD
+#EXTINF:-1 tvg-id="StudioMEDTV.pl" tvg-name="PL - StudioMED TV" tvg-logo="https://iptv-epg.org/logos/Poland/StudioMEDTV.pl.png" group-title="ROZRYWKA",STUDIOMED TV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227274&extension=ts
 #EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="PL - Polsat Comedy Central Extra" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatComedyCentralExtra.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ POLSAT COMEDY CENTRAL EXTRA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227273&extension=ts
-#EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL - Novelas+" tvg-logo="https://iptv-epg.org/logos/Poland/Novelas%2B.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ NOVELAS+
+#EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL - Novelas+" tvg-logo="https://iptv-epg.org/logos/Poland/Novelas%2B.pl.png" group-title="ROZRYWKA",NOVELAS+
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227272&extension=ts
 #EXTINF:-1 tvg-id="Nutatv.pl" tvg-name="PL - Nuta.TV" tvg-logo="https://iptv-epg.org/logos/Poland/Nutatv.pl.png" group-title="┃PL┃ MUZYKA",┃PL┃ NUTA TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227393&extension=ts
