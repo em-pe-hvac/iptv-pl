@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.ovh/pl.xml.gz" refresh="3600" format=“auto”
+#EXTM3U x-tvg-url="https://epg.ovh/pl.xml" refresh="3600" format=“auto”
 #EXTINF:-1 tvg-id="TVP.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
 #EXTINF:-1 tvg-id="TVP.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
@@ -275,7 +275,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227313&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227312&extension=ts
 #EXTINF:-1 tvg-id="FOX.pl" tvg-name="PL - FOX" tvg-logo="https://iptv-epg.org/logos/Poland/FOX.pl.png" group-title="DOKUMENTALNE",FX HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227421&extension=ts
-#EXTINF:-1 tvg-id="FOXComedy.pl" tvg-name="PL - FOX Comedy" tvg-logo="https://iptv-epg.org/logos/Poland/FOXComedy.pl.png" group-title="┃PL┃ ROZRYWKA",FX COMEDY HD
+#EXTINF:-1 tvg-id="FOXComedy.pl" tvg-name="PL - FOX Comedy" tvg-logo="https://iptv-epg.org/logos/Poland/FOXComedy.pl.png" group-title="ROZRYWKA",FX COMEDY HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227420&extension=ts
 #EXTINF:-1 tvg-id="AXN.pl" tvg-name="PL - AXN" tvg-logo="https://iptv-epg.org/logos/Poland/AXN.pl.png" group-title="ROZRYWKA",AXN HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227419&extension=ts
@@ -379,7 +379,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227380&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227379&extension=ts
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="PL - Disney XD" tvg-logo="https://iptv-epg.org/logos/Poland/DisneyXD.pl.png" group-title="BAJKI",DISNEY CHANNEL HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227378&extension=ts
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="PL - Nick Jr." tvg-logo="https://iptv-epg.org/logos/Poland/NickJr.pl.png" group-title="┃PL┃ BAJKI",┃PL┃ NICK JR
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="PL - Nick Jr." tvg-logo="https://iptv-epg.org/logos/Poland/NickJr.pl.png" group-title="BAJKI",NICK JR
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227377&extension=ts
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="PL - Nickelodeon" tvg-logo="https://iptv-epg.org/logos/Poland/Nickelodeon.pl.png" group-title="BAJKI",NICKELODEON
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227376&extension=ts
