@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.ovh/pl.xml" x-tvg-url="https://epg.ovh/pl.xml"
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml" x-tvg-url="https://epg.ovh/pltv.gz"
 #EXTINF:-1 tvg-id="TVP.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
 #EXTINF:-1 tvg-id="TVP.pl" tvg-name="PL - TVP" tvg-logo="https://iptv-epg.org/logos/Poland/TVP.pl.png" group-title="OGOLNE",TVP HD
@@ -327,7 +327,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227343&extens
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227342&extension=ts
 #EXTINF:-1 tvg-id="StudioMEDTV.pl" tvg-name="PL - StudioMED TV" tvg-logo="https://iptv-epg.org/logos/Poland/StudioMEDTV.pl.png" group-title="ROZRYWKA",STUDIOMED TV HD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227274&extension=ts
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="PL - Polsat Comedy Central Extra" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatComedyCentralExtra.pl.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ POLSAT COMEDY CENTRAL EXTRA
+#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="PL - Polsat Comedy Central Extra" tvg-logo="https://iptv-epg.org/logos/Poland/PolsatComedyCentralExtra.pl.png" group-title="ROZRYWKA",POLSAT COMEDY CENTRAL EXTRA
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227273&extension=ts
 #EXTINF:-1 tvg-id="Novelas+.pl" tvg-name="PL - Novelas+" tvg-logo="https://iptv-epg.org/logos/Poland/Novelas%2B.pl.png" group-title="ROZRYWKA",NOVELAS+
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227272&extension=ts
