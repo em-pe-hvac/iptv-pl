@@ -1,0 +1,1197 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP1_logo.png" group-title="OGÓLNE",TVP 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227463&extension=ts&play_token=aPRWIvL63S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP1_logo.png" group-title="OGÓLNE",TVP 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563255&extension=ts&play_token=WTlzxd8Rs2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP2_logo.png" group-title="OGÓLNE",TVP 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227462&extension=ts&play_token=atXXjD1LcV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP2_logo.png" group-title="OGÓLNE",TVP 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563256&extension=ts&play_token=F6Stq86nIN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP3_(2016).svg.png" group-title="OGÓLNE",TVP 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563257&extension=ts&play_token=4qr80hqHFg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP3_(2016).svg.png" group-title="OGÓLNE",TVP 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227461&extension=ts&play_token=SdD3HMXZ44
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_logo.png" group-title="OGÓLNE",POLSAT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227455&extension=ts&play_token=ZGImPDPjCE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_logo.png" group-title="OGÓLNE",POLSAT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563262&extension=ts&play_token=KsBWdn0hv2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_2_logo.png" group-title="OGÓLNE",POLSAT 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227454&extension=ts&play_token=zMoHlEtT8G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_2_logo.png" group-title="OGÓLNE",POLSAT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563263&extension=ts&play_token=0WgPNcnqX0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_logo.png" group-title="OGÓLNE",TVN FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227452&extension=ts&play_token=yASu8SXyHc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_logo.png" group-title="OGÓLNE",TVN HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563265&extension=ts&play_token=8AnGYKWWdd
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",ITVN FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724361&extension=ts&play_token=jj3sIU2JmU
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",ITVN HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724362&extension=ts&play_token=VblbBunHKr
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",ITVN EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724363&extension=ts&play_token=PMMidjFnVo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN7_logo_2021.svg.png" group-title="OGÓLNE",TVN 7 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227451&extension=ts&play_token=QYmXEpNRhJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN7_logo_2021.svg.png" group-title="OGÓLNE",TVN 7 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563266&extension=ts&play_token=xXd9GZwLqy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Tvn_style.png" group-title="OGÓLNE",TVN STYLE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227352&extension=ts&play_token=wGwmkwWRYk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Tvn_style.png" group-title="OGÓLNE",TVN STYLE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563279&extension=ts&play_token=Nd78IIJZ9c
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_Turbo_HD.png" group-title="OGÓLNE",TVN TURBO FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227402&extension=ts&play_token=avzUAwLLLe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_Turbo_HD.png" group-title="OGÓLNE",TVN TURBO HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563274&extension=ts&play_token=OHykOMVaMD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Ttv_logo.svg.png" group-title="OGÓLNE",TTV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227449&extension=ts&play_token=bFLOyjf3p2
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TTV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724371&extension=ts&play_token=BgTaOUOh7M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV4-2023.svg.png" group-title="OGÓLNE",TV4 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227459&extension=ts&play_token=DzYEknRdtr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV4-2023.svg.png" group-title="OGÓLNE",TV4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563259&extension=ts&play_token=5NYQXuiep0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="OGÓLNE",TV PULS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227448&extension=ts&play_token=MNDBmXPh6y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="OGÓLNE",TV PULS HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563268&extension=ts&play_token=JtjjWX9Mlc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/puls2.png" group-title="OGÓLNE",TV PULS 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563275&extension=ts&play_token=EgDps9EWUm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/puls2.png" group-title="OGÓLNE",TV PULS 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227391&extension=ts&play_token=6c0f3ZWugB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT CAFE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227359&extension=ts&play_token=DbyW8H47Pn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT CAFE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563276&extension=ts&play_token=hIlB3RnIqt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Play_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT PLAY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227358&extension=ts&play_token=LZMoLke4BJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Play_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT PLAY HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563277&extension=ts&play_token=aj3M6P1NYw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Rodzina.png" group-title="OGÓLNE",POLSAT RODZINA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563269&extension=ts&play_token=28nt3yM5bx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Rodzina.png" group-title="OGÓLNE",POLSAT RODZINA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227447&extension=ts&play_token=PSOaqOZ6yd
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",POLSAT GAMES HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724370&extension=ts&play_token=yddxsJXM8f
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV6_Logo_2022.svg.png" group-title="OGÓLNE",TV6 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227457&extension=ts&play_token=7B6Spi7lqb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV6_Logo_2022.svg.png" group-title="OGÓLNE",TV6 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563260&extension=ts&play_token=wJX9jhVww8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png" group-title="OGÓLNE",TVP FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts&play_token=iokPDhxGjK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png" group-title="OGÓLNE",TVP HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563254&extension=ts&play_token=Vo8l1Ga1t5
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TVP KOBIETA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724372&extension=ts&play_token=HPCRFJTyMT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvprozrywka.png" group-title="OGÓLNE",TVP ROZRYWKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227367&extension=ts&play_token=WEBroE8IIZ
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",FOOD NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724373&extension=ts&play_token=HWuTxweNBy
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",CANAL+ KUCHNIA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724374&extension=ts&play_token=l72pWGqtZT
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",CANAL+ DOMO HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724375&extension=ts&play_token=cJ3LdlnArS
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",HGTV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724376&extension=ts&play_token=9p8sY8MZt1
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",HGTV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724377&extension=ts&play_token=pl8LmzsmQr
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",HOME TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724378&extension=ts&play_token=B4cmFAQEj1
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",ACTIVE FAMILY HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724379&extension=ts&play_token=A06gxEqpIW
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",KABARET TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724380&extension=ts&play_token=8irCGmXHcX
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",ANTENA TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724381&extension=ts&play_token=aPBFcC3EwP
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",XTREME TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724382&extension=ts&play_token=c4ytKy6tSU
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",REMONTY TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724383&extension=ts&play_token=m514k5l5LD
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TLC HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724384&extension=ts&play_token=M6sWrNlplh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Super_Polsat_2021_gradient.svg.png" group-title="OGÓLNE",SUPER POLSAT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563264&extension=ts&play_token=CEx31yd3p5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Super_Polsat_2021_gradient.svg.png" group-title="OGÓLNE",SUPER POLSAT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227453&extension=ts&play_token=FwlP7QD2di
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",WP HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724385&extension=ts&play_token=CnuNgYjcYA
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",ZOOM TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724386&extension=ts&play_token=GvHMSs1D0T
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",E! ENTERTAINMENT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724387&extension=ts&play_token=NxqPGSewGU
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",NOWA TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724388&extension=ts&play_token=tW498c7xjt
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TVP KULTURA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724390&extension=ts&play_token=rL3LL5OVTd
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TVP KULTURA 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724391&extension=ts&play_token=HTYP24rT6Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png" group-title="OGÓLNE",TVP POLONIA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227460&extension=ts&play_token=zmdkd4vKr6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png" group-title="OGÓLNE",TVP POLONIA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563258&extension=ts&play_token=2R3Cm6rIsB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/LogoPolonia1.png" group-title="OGÓLNE",POLONIA 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227456&extension=ts&play_token=on0ohH2dlu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/LogoPolonia1.png" group-title="OGÓLNE",POLONIA 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563261&extension=ts&play_token=7sQuS03VTF
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",13.TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724392&extension=ts&play_token=rMtc1bo12M
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TELE 5 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724393&extension=ts&play_token=IzXSdr2Mbu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TBN%20Polska%20Logo%20-%20Large.png" group-title="OGÓLNE",TBN POLAND FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227370&extension=ts&play_token=tYemL4NEhE
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TBN POLSKA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724394&extension=ts&play_token=53dGZW9jNa
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TVC HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724395&extension=ts&play_token=xrQIfforoR
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TVC SUPER HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724396&extension=ts&play_token=I7qfERTmHn
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",POGODA24 TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724397&extension=ts&play_token=AgxOD339vK
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",TV TRWAM HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724398&extension=ts&play_token=oZh6v2Js5B
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",METRO HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724389&extension=ts&play_token=tJOqCv6bUi
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",EWTN POLSKA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724399&extension=ts&play_token=uAlj3mlVpC
+#EXTINF:-1 tvg-logo="" group-title="OGÓLNE",CTV - DLA CIEBIE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724400&extension=ts&play_token=AaHlxkxxrZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_HD_Logo.png" group-title="INFORMACJE",TVN 24 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227282&extension=ts&play_token=tr9QToEfze
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_HD_Logo.png" group-title="INFORMACJE",TVN 24 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563283&extension=ts&play_token=BaFIC1NpBp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_Bis.png" group-title="INFORMACJE",TVN24 BIZ FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227281&extension=ts&play_token=0dHv3mU1Vs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_Bis.png" group-title="INFORMACJE",TVN24 BIZ HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563284&extension=ts&play_token=xFRyeerzl3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tv-republika.png" group-title="INFORMACJE",TV REPUBLIKA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227277&extension=ts&play_token=Oa6gJlrPNV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tv-republika.png" group-title="INFORMACJE",TV REPUBLIKA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563288&extension=ts&play_token=J1EZcUYVBA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png" group-title="INFORMACJE",POLSAT NEWS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227280&extension=ts&play_token=1ONRuGrpnH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png" group-title="INFORMACJE",POLSAT NEWS HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563285&extension=ts&play_token=73mUNnzm9x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png" group-title="INFORMACJE",POLSAT NEWS 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227279&extension=ts&play_token=wczI6FkaSN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png" group-title="INFORMACJE",POLSAT NEWS 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563286&extension=ts&play_token=hg1N78WkZq
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",POLSAT NEWS POLITYKA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724401&extension=ts&play_token=UHgpbiYpnq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Wydarzenia.png" group-title="INFORMACJE",WYDARZENIA 24 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563287&extension=ts&play_token=EIXbkdxeaJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP_Info_logo.svg.png" group-title="INFORMACJE",TVP INFO FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227275&extension=ts&play_token=jEiRZsSIos
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP_Info_logo.svg.png" group-title="INFORMACJE",TVP INFO HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563290&extension=ts&play_token=81aKo77THb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/wpolscepl.png" group-title="INFORMACJE",WPOLSCE 24 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227276&extension=ts&play_token=HQys6F2OJE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/wpolscepl.png" group-title="INFORMACJE",WPOLSCE 24 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1563289&extension=ts&play_token=DiDkBY7dbW
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",ECHO 24 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724402&extension=ts&play_token=XsnvtUyDDa
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",SUPER EXPRESS TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724403&extension=ts&play_token=rNKJ0mdCeh
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",NEWS 24 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724404&extension=ts&play_token=YwKo359GDS
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",BIZNES 24 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724405&extension=ts&play_token=2pQ8gSAExN
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",TV BIZNESOWA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724406&extension=ts&play_token=1EnYou58jy
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",SEJM RP HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724407&extension=ts&play_token=wArbQIcPd9
+#EXTINF:-1 tvg-logo="" group-title="INFORMACJE",TVP PARLAMENT - SENAT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1724408&extension=ts&play_token=1KnkJl1UZQ
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ PREMIUM FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728810&extension=ts&play_token=OBy65uHtdB
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ PREMIUM HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728811&extension=ts&play_token=3eQ5Kszpcs
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728812&extension=ts&play_token=DnXDavgU9m
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728813&extension=ts&play_token=yd8u2YLwsm
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ FILM FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728814&extension=ts&play_token=J0tkQ7faiI
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ FILM HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728815&extension=ts&play_token=6mY7bSSyu8
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ 360 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728816&extension=ts&play_token=yH744EMF1i
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ 360 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728817&extension=ts&play_token=Bs0bFfvp3p
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ SERIALE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728818&extension=ts&play_token=I2QbFqLWI4
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CANAL+ SERIALE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728819&extension=ts&play_token=wEwFhwRSN8
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",HBO FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728820&extension=ts&play_token=jfzlXTKZD8
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",HBO HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728821&extension=ts&play_token=wBorUCMQHO
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",HBO 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728822&extension=ts&play_token=ASGPfoCWmy
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",HBO 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728823&extension=ts&play_token=NfYjKtNUmU
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",HBO 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728824&extension=ts&play_token=1TRUVaZTrr
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",HBO 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728825&extension=ts&play_token=9OEhMmd8Ds
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CINEMAX FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728826&extension=ts&play_token=Fejr674oSX
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CINEMAX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728827&extension=ts&play_token=NwOoEBP9TB
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CINEMAX 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728828&extension=ts&play_token=eYaIu7CTE8
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",CINEMAX 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728829&extension=ts&play_token=7qZ7Do4VIx
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX PREMIUM FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728830&extension=ts&play_token=KjtR7nwmZL
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX PREMIUM HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728831&extension=ts&play_token=9ZZqVvFZ0f
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX EXTRA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728832&extension=ts&play_token=im3IGGvXfy
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728833&extension=ts&play_token=EAULdhMyrW
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX ACTION FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728836&extension=ts&play_token=ZOEKxj8Btk
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX ACTION
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728837&extension=ts&play_token=Vuqo4L9LCe
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX FAMILY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728834&extension=ts&play_token=Mau9DXvkCj
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX FAMILY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728835&extension=ts&play_token=RCupgFGMzC
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX ARTHOUSE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728838&extension=ts&play_token=R2rPSVmIfV
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMBOX ARTHOUSE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728839&extension=ts&play_token=THP8DgRxFI
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728840&extension=ts&play_token=sii8g3pNDa
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728841&extension=ts&play_token=T7iCkX9jjf
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN SPIN FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728842&extension=ts&play_token=ySRXqmwSWF
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN SPIN FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728843&extension=ts&play_token=8tL7K5RKIt
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN WHITE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728846&extension=ts&play_token=036VzChZrz
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN WHITE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728847&extension=ts&play_token=E5PNEKXLsF
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN BLACK FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728844&extension=ts&play_token=iFWdDFSgA7
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AXN BLACK HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728845&extension=ts&play_token=alj67e0heQ
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",TVN Fabula FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728848&extension=ts&play_token=UvHadIJkHX
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT FILM FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728849&extension=ts&play_token=kK7HAdPrs2
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT FILM 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728850&extension=ts&play_token=9qkSfzcA5t
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT SERIALE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728868&extension=ts&play_token=NmltposUkW
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",SKYSHOWTIME 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728851&extension=ts&play_token=CgE70DoPiR
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",SKYSHOWTIME 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728852&extension=ts&play_token=jhtUIpwUvE
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",PARAMOUNT CHANNEL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728853&extension=ts&play_token=abyEpugid2
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",WARNER TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728854&extension=ts&play_token=RvJMjvrjvW
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",EPIC DRAMA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728855&extension=ts&play_token=fL7TBmrTBm
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",STOPKLATKA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728856&extension=ts&play_token=ms4YKGOulj
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",AMC FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728857&extension=ts&play_token=N85rf5Uj4p
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",SUNDANCE TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728858&extension=ts&play_token=RrkMsJyKNJ
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",SCIFI UNIVERSAL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728859&extension=ts&play_token=J3z0eg4LTp
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",13 ULICA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728860&extension=ts&play_token=zhk6mDRD5m
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",ALE KINO+ FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728865&extension=ts&play_token=VcGwJs3TTc
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FX COMEDY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728862&extension=ts&play_token=JgdAx3hRsK
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FX FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728861&extension=ts&play_token=atAxkUa10z
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",COMEDY CENTRAL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728863&extension=ts&play_token=mrSOY0rqcH
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",COMEDY CENTRAL EXTRA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728864&extension=ts&play_token=ZrcjlcgWG2
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",NOVELA TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728870&extension=ts&play_token=WCb24LEsXV
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",NOVELAS+ FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728871&extension=ts&play_token=btFcImXv37
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",KINO TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728866&extension=ts&play_token=KS2DX0gtJh
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",KINO POLSKA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728867&extension=ts&play_token=PVvPa8WRke
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",ROMANCE TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728874&extension=ts&play_token=0MPMPQ0uqn
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",TOP MOVIES POLSKA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728877&extension=ts&play_token=ukOqdpERN2
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",TVP SERIALE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728869&extension=ts&play_token=yXrc7IyGeh
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",VIDOCTV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728876&extension=ts&play_token=k54xV0khTB
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",BOLLYWOOD FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728873&extension=ts&play_token=fhEQrz9ddr
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",FILMAX FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728875&extension=ts&play_token=U7vJJBzESg
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT VOD 202 - ELIKSIR MŁODOŚCI FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728882&extension=ts&play_token=NY2ypI9lyT
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT VOD 203 - CHRZCINY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728883&extension=ts&play_token=wGLNneioxL
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT VOD 204 -  DZIEŃ SĄSIADA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728884&extension=ts&play_token=rxhQxMt4Qv
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT VOD 205 - I ZNOWU ZGRZESZYLIŚMY, DOBRY BOŻE! FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728885&extension=ts&play_token=52aUKqux2s
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",POLSAT VOD 206 -  MROCZNY DOM FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728886&extension=ts&play_token=UUHYyB6v1e
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",BJGTJME DARMOWE FILMY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728879&extension=ts&play_token=1zMaSlGz9o
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",GRJNGO WESTERNY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728878&extension=ts&play_token=8Z5zdpjMNy
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",KAPITAN BOMBA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728880&extension=ts&play_token=cCCjXW7Q0s
+#EXTINF:-1 tvg-logo="" group-title="FILMOWE",PORUCZNIK KABURA TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728881&extension=ts&play_token=n7z87Ks7Fg
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729387&extension=ts&play_token=LWGwb0cTKP
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729388&extension=ts&play_token=XCZMfqCIit
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729389&extension=ts&play_token=GY8JOfmaIq
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729390&extension=ts&play_token=KLL7WzcZ30
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729391&extension=ts&play_token=GQf296atET
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729392&extension=ts&play_token=iYAwIy0ncC
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 7
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729393&extension=ts&play_token=k4F7JvWzkB
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729394&extension=ts&play_token=vSDRYwov1l
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 9
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729395&extension=ts&play_token=GuQL4dwLBO
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 10
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729396&extension=ts&play_token=6WhSaCHkas
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 11
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729397&extension=ts&play_token=Za9260enGy
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 12
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729398&extension=ts&play_token=ZDMFdA9e0t
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 13
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729399&extension=ts&play_token=iVwjsjaPKX
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 14
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729400&extension=ts&play_token=FZyJiutIqc
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 15
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729401&extension=ts&play_token=O9cc49xjXd
+#EXTINF:-1 tvg-logo="" group-title="OD NETFLIX",24/7 OD NETFLIX 16
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729402&extension=ts&play_token=XM0NvnVCmQ
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ TOP 10
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729427&extension=ts&play_token=utwSsHLKEq
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729428&extension=ts&play_token=5y3lc8Jrq4
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729429&extension=ts&play_token=TNuVAYnl7h
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729430&extension=ts&play_token=ZFAvMW9QAD
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729431&extension=ts&play_token=l06W5YpDlU
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729432&extension=ts&play_token=sPHlUKEQLa
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729433&extension=ts&play_token=4u9AdZSTTq
+#EXTINF:-1 tvg-logo="" group-title="OD DISNEY+",24/7 OD DISNEY+ 7
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729434&extension=ts&play_token=VV6LWyAYA7
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX TOP 10
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729455&extension=ts&play_token=MjB7HmUxLu
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729456&extension=ts&play_token=46EuixKGlI
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729457&extension=ts&play_token=HBUbOjQATI
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729458&extension=ts&play_token=2ZD8dLnquU
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729459&extension=ts&play_token=4ZLts0ii3R
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729460&extension=ts&play_token=0X6PptBbWL
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729461&extension=ts&play_token=CNUZbKJlUo
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 7
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729462&extension=ts&play_token=LTDmCy8Qjm
+#EXTINF:-1 tvg-logo="" group-title="OD HBO MAX",24/7 OD HBO MAX 8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729463&extension=ts&play_token=8UDNRsFw8S
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",PLANETE+ FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728892&extension=ts&play_token=mH6UtXTHnv
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",NATIONAL GEOGRAPHIC FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728897&extension=ts&play_token=NC3RfWXTOI
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",NATIONAL GEOGRAPHIC HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728898&extension=ts&play_token=q4BbgxZLyR
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",NAT GEO WILD FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728899&extension=ts&play_token=NrPC5iMovc
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",NAT GEO WILD HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728900&extension=ts&play_token=sHsYAW30UA
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",NAT GEO PEOPLE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728901&extension=ts&play_token=T7b6jzXIuP
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DISCOVERY CHANNEL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728903&extension=ts&play_token=FZWf3lnwtN
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DISCOVERY CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728904&extension=ts&play_token=49XhmcRBIq
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DISCOVERY SCIENCE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728905&extension=ts&play_token=kiwWdNFeKB
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DISCOVERY LIFE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728907&extension=ts&play_token=z4bzSgFY93
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DISCOVERY HISTORIA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728906&extension=ts&play_token=YwsVuyevj5
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",INVESTIGATION DISCOVERY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728914&extension=ts&play_token=8KMfJ4CR9H
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DTX fhd
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728908&extension=ts&play_token=7bEkmCeXhj
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",HISTORY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728909&extension=ts&play_token=FF13FkpknC
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",HISTORY 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728910&extension=ts&play_token=mkfRjBnnvS
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",ANIMAL PLANET FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728902&extension=ts&play_token=IMF7vvu4f2
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",BBC BRIT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728894&extension=ts&play_token=YP0j9PUASW
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",BBC EARTH FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728895&extension=ts&play_token=Ro3lAQVQIS
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",BBC FIRST FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728893&extension=ts&play_token=ckG8lrhRD9
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",BBC LIFESTYLE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728896&extension=ts&play_token=Dyagbic24q
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",TVP HISTORIA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728911&extension=ts&play_token=swf0Ezc1CL
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",TVP HISTORIA 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728912&extension=ts&play_token=n1Wlm6pwPt
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",TVP DOKUMENT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728917&extension=ts&play_token=0E1R82dVR6
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",TVP NAUKA FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728913&extension=ts&play_token=3GEko9Vb8i
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",POLSAT X FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728919&extension=ts&play_token=lQlI2Fa7xZ
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",POLSAT VIASAT EXPLORE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728922&extension=ts&play_token=VE9GuJkO77
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",POLSAT VIASAT HISTORY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728923&extension=ts&play_token=KfLJTL4e5x
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",POLSAT VIASAT NATURE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728924&extension=ts&play_token=BcUzfchjkS
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",POLSAT DOKU FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728918&extension=ts&play_token=0gSRm7ItT7
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",POLSAT REALITY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728920&extension=ts&play_token=zB5hhZINff
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",CANAL+ DOKUMENT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728916&extension=ts&play_token=hBEJ2iEOve
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",CI POLSAT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728915&extension=ts&play_token=umWVYYsaBX
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",DOCUBOX FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728921&extension=ts&play_token=yo99yM5lP1
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",ADVENTURE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728928&extension=ts&play_token=Aabx7SJbwH
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",FOKUS TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728927&extension=ts&play_token=dxJJhcgu75
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",MOCONOMY FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728930&extension=ts&play_token=5tDqBfXnxW
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",ROYAL WORLD TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728932&extension=ts&play_token=31C9fxrlWZ
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",STUDIOMED TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728931&extension=ts&play_token=2Kp628Yrfq
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",TRAVEL CHANNEL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728926&extension=ts&play_token=nhPH92lm0P
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",VIASAT TRUE CRIME FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728925&extension=ts&play_token=unk9ZDEahO
+#EXTINF:-1 tvg-logo="" group-title="TEMATYCZNE",WATER PLANET FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728929&extension=ts&play_token=goRUpocAQC
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",NICKELODEON FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728949&extension=ts&play_token=GL36SaEINM
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",NICKTOONS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728948&extension=ts&play_token=joftVG3GOU
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",NICK JR. FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728951&extension=ts&play_token=6KfK5xJOns
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",TEENNICK FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728950&extension=ts&play_token=enzz5c3c3o
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",DISNEY XD FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728945&extension=ts&play_token=rf7c1RyMIc
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",DISNEY CHANNEL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728944&extension=ts&play_token=UEaZaBjtt1
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",DISNEY JUNIOR FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728946&extension=ts&play_token=SGscIobh3u
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",CARTOON NETWORK FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728943&extension=ts&play_token=zMDrCNHClp
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",CARTOONITO FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728947&extension=ts&play_token=VEw3O7FsMs
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",BABY TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728953&extension=ts&play_token=g6Rse64bjR
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",BABY TV PL FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728954&extension=ts&play_token=xpCAkSB3Ry
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",BBC CBEEBIES FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728940&extension=ts&play_token=nEJHhHGEJk
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",TELETOON+ FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728941&extension=ts&play_token=lnNXy1lC5H
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",2X2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728961&extension=ts&play_token=O11vdvBiuv
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",4FUN KIDS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728963&extension=ts&play_token=T7XAzR15M4
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",ALFA TVP FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728957&extension=ts&play_token=ufIjhSuuwh
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",BOBASY TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728965&extension=ts&play_token=um11ANxYLo
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",DA VINCI FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728958&extension=ts&play_token=HMie9hjib7
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",DUCK TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728959&extension=ts&play_token=6PxjtqW42f
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",DUCK TV PLUS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728960&extension=ts&play_token=PuPvCwWRP0
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",MINIMINI+ FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728942&extension=ts&play_token=3LPija9Vjh
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",POLSAT JIMJAM FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728952&extension=ts&play_token=nzDTEADHjp
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",TOP KIDS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728962&extension=ts&play_token=uNs7JFjxva
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",TVP ABC 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728956&extension=ts&play_token=JarP0zfpyP
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",TVP ABC FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728955&extension=ts&play_token=UMcLqoVLs8
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",JUNIOR MUSIC FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728964&extension=ts&play_token=BmCCxmPdvO
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 ABBY HATCHER
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728974&extension=ts&play_token=TGRzhVILAY
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 AUTA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729039&extension=ts&play_token=Pp15iqQABz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BAJKI MIX 90 - 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728975&extension=ts&play_token=cDURi27ffe
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BAJKI MIX 90 - 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728976&extension=ts&play_token=247jz3v7aj
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BAJKI MIX 90 - 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728977&extension=ts&play_token=671k9rNzjo
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BAŚNIE ANDERSENA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728978&extension=ts&play_token=qQEYLm8bpU
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BAŚNIE BRACI GRIMM
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728979&extension=ts&play_token=w0IFkeXcQc
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BING 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728980&extension=ts&play_token=KrjTNMfmUz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BING 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728981&extension=ts&play_token=0L1GKqnbCO
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BLAZE I MEGAMASZYNY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729069&extension=ts&play_token=iUi4aHStZh
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BLUEY 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728982&extension=ts&play_token=JisQpdDKfF
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BLUEY 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728983&extension=ts&play_token=xsvraiut8u
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BLUEY 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728984&extension=ts&play_token=bzLK6SbOfF
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BOB BUDOWNICZY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728985&extension=ts&play_token=er8EU1iagc
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BOLEK I LOLEK NA WAKACJACH
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728986&extension=ts&play_token=QVch3NX97s
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BYŁO SOBIE ŻYCIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728989&extension=ts&play_token=3inABvR0wz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BYŁ SOBIE CZŁOWIEK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728987&extension=ts&play_token=veX7zbtn8a
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 BYŁ SOBIE KOSMOS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728988&extension=ts&play_token=WLGK9TqnCs
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 CIEKAWSKI GEORGE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728990&extension=ts&play_token=dNP8qxj4JQ
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 CLIFFORD - WIELKI CZERWONY PIES 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729065&extension=ts&play_token=jxWw69aM8G
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 CLIFFORD - WIELKI CZERWONY PIES 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729066&extension=ts&play_token=tQmnf5irUv
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 COCOBI - ENG
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728991&extension=ts&play_token=RBnVLa4Gjn
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 COCOMELON ENG.
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728992&extension=ts&play_token=sQSrX3utrF
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 COCOMELON PL
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728993&extension=ts&play_token=HvYrMjGLu1
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 DINOPOCIĄG
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728994&extension=ts&play_token=9RS6U4w6rK
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 DISNEY BAJKI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728995&extension=ts&play_token=JPqJCOV0b3
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 DISNEY BAJKI 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728996&extension=ts&play_token=ON7Fvb1dJp
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 DISNEY BAJKI 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728997&extension=ts&play_token=5foj54UTJv
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 DORA POZNAJE ŚWIAT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728998&extension=ts&play_token=79alktUvk9
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 DRAGON BALL
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1728999&extension=ts&play_token=1WGQ9HeiZD
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 ED, EDD I EDDY - PL / ENG
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729000&extension=ts&play_token=7RjroodC8a
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 FLINTSTONOWIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729001&extension=ts&play_token=uhLNRZ5U60
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 GUMISIE 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729002&extension=ts&play_token=Z4T9RBB6LU
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 JAK WYTRESOWAĆ SMOKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729003&extension=ts&play_token=Z8W3dOClet
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 JAŚ FASOLA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729004&extension=ts&play_token=K30f5yXlSz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 JETSONOWIE 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729005&extension=ts&play_token=qjro26Q0I8
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 JOHNNY BRAVO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729006&extension=ts&play_token=yce3GeSKfY
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KAPITAN TSUBASA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729007&extension=ts&play_token=Wb3BXETHUY
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KAZIO - EDUKACJA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729008&extension=ts&play_token=IN8PwTKSGd
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KAZIO - PIOSENKI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729009&extension=ts&play_token=zYtnZhQgfZ
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KAZIO - WARZYWA I OWOCE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729010&extension=ts&play_token=HXxSHoassh
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KAZIO - ZWIERZĘTA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729011&extension=ts&play_token=fy0f12IQev
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KICI KOCIA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729012&extension=ts&play_token=C7jNOXLt7f
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KLINIKA DLA PLUSZAKÓW 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729048&extension=ts&play_token=SEDQfplxTG
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KLINIKA DLA PLUSZAKÓW 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729049&extension=ts&play_token=Izy7gp7TIz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KLUB PRZYJACIÓŁ MYSZKI MIKI (PL)
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729013&extension=ts&play_token=FNmelzVFsS
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KLUB PRZYJACIÓŁ MYSZKI MIKI 2 (PL)
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729014&extension=ts&play_token=o0xLBwKtTx
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KLUB WINX
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729060&extension=ts&play_token=6hAOHkA6FI
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KOCI DOMEK GABI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729015&extension=ts&play_token=3AKo3rp2oO
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KOT-O-CIAKI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729016&extension=ts&play_token=ZQbzXo9Ccm
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KOZIOŁEK MATOŁEK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729017&extension=ts&play_token=clFhBahCqb
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KRECIK 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729018&extension=ts&play_token=ElXkZzv8Hq
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KRECIK 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729019&extension=ts&play_token=AyLXNExdXX
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KROLIK BUGS I STRUS PEDZIWIATR PL
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729020&extension=ts&play_token=UAFvENQ23o
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KUCYKI PONY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729051&extension=ts&play_token=ABhVJAwlVw
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 KUNG FU PANDA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729021&extension=ts&play_token=xdnk5vd8Wr
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 LILO I STICH
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729022&extension=ts&play_token=M88ax3ycc2
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 LULANKI DO SNU
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729023&extension=ts&play_token=sxIMIGvQtm
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MASZA I NIEDŹWIEDŹ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729024&extension=ts&play_token=kaOhU7hh4e
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MAŁA CZARODZIEJKA TATTY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729025&extension=ts&play_token=ffPTG8Q6dQ
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MAŁE KRÓLESTWO BENA I HOLLY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729026&extension=ts&play_token=kseMhen4kn
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MINIONKI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729035&extension=ts&play_token=cygUTKmlJj
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MIŚ USZATEK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729027&extension=ts&play_token=y0xO4GlI6P
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MUMINKI 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729028&extension=ts&play_token=2M7gX5Cd6o
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 MY MELODY AND KUROMI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729029&extension=ts&play_token=gbiJW7sWtN
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 NIESAMOWITY ŚWIAT GUMBALLA 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729030&extension=ts&play_token=McsSJVWoki
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 NOWE PRZYGODY KUBUSIA PUCHATKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729031&extension=ts&play_token=E0woqMqPJw
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 OKTONAUCI - PRZYGODY NA LĄDZIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729072&extension=ts&play_token=GPrsWJurxB
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PAN ROBÓTKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729032&extension=ts&play_token=ySnXpgvv8Q
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PINGWINY Z MADAGASKARU 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729033&extension=ts&play_token=gU80iqewIf
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PIOSENKI PRZEDSZKOLAKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729034&extension=ts&play_token=vqVMpMqTzh
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 POKEMON
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729036&extension=ts&play_token=3fccil6Z6b
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PORWANIE BALTAZARA GĄBKI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729037&extension=ts&play_token=aZDWwj6cIC
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 POWER RANGERS ENG.
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729038&extension=ts&play_token=dYTc0BfeIH
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI PATROL 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729040&extension=ts&play_token=CxIApwkUzo
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI PATROL 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729041&extension=ts&play_token=TGyulGG9Kc
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI PATROL 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729042&extension=ts&play_token=ym9rwr0RrH
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI PATROL 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729043&extension=ts&play_token=dITkUCJytt
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI PATROL 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729044&extension=ts&play_token=fh9EzxfQ64
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI PATROL 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729045&extension=ts&play_token=xl6TWlrLjA
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSI ZYWOT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729050&extension=ts&play_token=cD8pTvw897
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSZCZÓŁKA MAJA 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729052&extension=ts&play_token=8hT663ccrB
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 PSZCZÓŁKA MAJA 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729053&extension=ts&play_token=wRsEDbfeUq
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 REKSIO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729054&extension=ts&play_token=XMIk43qlZJ
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 RUBBLE I JEGO EKIPA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729046&extension=ts&play_token=VzC4CgIxx4
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 RUBBLE I JEGO EKIPA 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729047&extension=ts&play_token=d2uxsrevsr
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 RÓŻOWA PANTERA I PRZYJACIELE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729055&extension=ts&play_token=NgUIyLGGzv
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SCOOBY DOO 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729056&extension=ts&play_token=k55PA6Tgiz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SCOOBY DOO 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729057&extension=ts&play_token=KX4qhtqMFo
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SCOOBY DOO 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729058&extension=ts&play_token=kUsJg1EN6s
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SCOOBY DOO 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729059&extension=ts&play_token=yCfeWP51Yd
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SHREK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729061&extension=ts&play_token=sdDT8oRqYr
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SMERFY 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729062&extension=ts&play_token=R0PPYOx6Bz
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SMERFY 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729063&extension=ts&play_token=73rh1cZveM
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SMERFY 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729064&extension=ts&play_token=wdS267e4gY
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SMRODEK I BRUDEK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729073&extension=ts&play_token=o8gHX0EdlA
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SPONGEBOB KANCIASTOPORTY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729067&extension=ts&play_token=H0lyudKUM6
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 STARY MACDONALD FARME MIAŁ - ALL LEANGUE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729068&extension=ts&play_token=YRC0shPfUY
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 STRAŻAK SAM 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729070&extension=ts&play_token=ul7Ld90jS6
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 STRAŻAK SAM 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729071&extension=ts&play_token=NZUK7XNmwu
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 STRUS PEDZIWIATR ENG
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729074&extension=ts&play_token=VyxiMzJfXp
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SUPER BABY LALA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729075&extension=ts&play_token=fBIZ1eIHRA
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SWINKA PEPPA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729076&extension=ts&play_token=3XeCk72xv8
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 SZYBCY I WŚCIEKLI - WYŚCIGOWI AGENCI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729077&extension=ts&play_token=ayaQZX6j3I
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 TABALUGA 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729078&extension=ts&play_token=HErWLKrSTT
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 TABALUGA 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729079&extension=ts&play_token=39fAMMEPzN
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 TABALUGA 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729080&extension=ts&play_token=LGClKhiPk4
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 TELETUBISIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729081&extension=ts&play_token=GIQcdlhe0u
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 TOM I JERRY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729082&extension=ts&play_token=yOhMKEgNj2
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 TOM I JERRY 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729083&extension=ts&play_token=xO59COy9F9
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 WILK I ZAJĄC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729084&extension=ts&play_token=c6C7Bu6Wl6
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 ZACZAROWANY OŁÓWEK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729085&extension=ts&play_token=QCR3pr9Uay
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 ZWARIOWANE MELODIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729086&extension=ts&play_token=PVnQz8Sqz2
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 ŚPIEWAJĄCE BRZDĄCE 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729087&extension=ts&play_token=8GaoC1Qibh
+#EXTINF:-1 tvg-logo="" group-title="DLA DZIECI",24/7 ŚPIEWAJĄCE BRZDĄCE 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729088&extension=ts&play_token=i97LZ2wBIe
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ NOW FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729144&extension=ts&play_token=cW39bo2ENi
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ NOW HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729145&extension=ts&play_token=XKwuYiuQSZ
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729134&extension=ts&play_token=xNPkhbxy45
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729135&extension=ts&play_token=tBcrMvKOJs
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729136&extension=ts&play_token=0e0FzISxeg
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729137&extension=ts&play_token=17RIkD6y0w
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729138&extension=ts&play_token=mBCzKkrWs5
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729139&extension=ts&play_token=BUbTXT2oda
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 4 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729140&extension=ts&play_token=nRDDiA8mCv
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729141&extension=ts&play_token=jFZ1H5ILPi
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 5 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729142&extension=ts&play_token=EaVYfjpsKn
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ SPORT 5 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729143&extension=ts&play_token=Fv0iVI8Px5
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729146&extension=ts&play_token=7QI8t9SSiB
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729147&extension=ts&play_token=lRlVkVJ6xr
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729148&extension=ts&play_token=c4rN3N1ahQ
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729149&extension=ts&play_token=ddVWRdCqB7
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729150&extension=ts&play_token=bsk5fzX7H6
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729151&extension=ts&play_token=3zZCH3ZEYB
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 4 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729152&extension=ts&play_token=V8gCsf87Ti
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729153&extension=ts&play_token=f01mFxcJLH
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 5 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729154&extension=ts&play_token=7Qa9Gq1itH
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 5 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729155&extension=ts&play_token=AQfnh6tvml
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 6 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729156&extension=ts&play_token=glinYMG79z
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 6 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729157&extension=ts&play_token=6amyPUyEcm
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 7 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729158&extension=ts&play_token=X9GLQSwh81
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 7 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729159&extension=ts&play_token=4gHr8v5UtP
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 8 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729160&extension=ts&play_token=spnBwUwIMp
+#EXTINF:-1 tvg-logo="" group-title="CANAL+ SPORT",CANAL+ EXTRA 9 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729161&extension=ts&play_token=8sZtiXAMgR
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729162&extension=ts&play_token=lVaQyBFj69
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729163&extension=ts&play_token=EpTSefFf9x
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729164&extension=ts&play_token=HkawLeGeiQ
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729165&extension=ts&play_token=dozw9NkBHl
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729168&extension=ts&play_token=snbvURAVEv
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729169&extension=ts&play_token=OfdCqJAOnH
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT Fight FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729166&extension=ts&play_token=JhhJnM9XjD
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT Fight HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729167&extension=ts&play_token=M2I7XE0nvd
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT PREMIUM 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729170&extension=ts&play_token=UX4bRTTB3d
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT PREMIUM 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729171&extension=ts&play_token=8ivAfWOyjb
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT PREMIUM 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729172&extension=ts&play_token=JBur4yD7bO
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT PREMIUM 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729173&extension=ts&play_token=lQXEwCyRJR
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729174&extension=ts&play_token=qk8W84c38D
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729175&extension=ts&play_token=o7QdmQJQes
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729176&extension=ts&play_token=oloor2xZrT
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729177&extension=ts&play_token=Z6KLF3Lxyu
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 3 FDH
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729178&extension=ts&play_token=RcczomN8LS
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729179&extension=ts&play_token=LLbzm26cAr
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 4 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729180&extension=ts&play_token=mEyf2xj3D7
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",POLSAT SPORT EXTRA 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729181&extension=ts&play_token=Qc2sU0gpnZ
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",TVP SPORT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729190&extension=ts&play_token=OZMBevKADT
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",TVP SPORT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729191&extension=ts&play_token=SjWFgBifJe
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729182&extension=ts&play_token=Q1xb2GpMCJ
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729183&extension=ts&play_token=6x6PffLsn0
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729184&extension=ts&play_token=IHW0FPO4oI
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729185&extension=ts&play_token=tfFfHEF57D
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729186&extension=ts&play_token=GWd2HRsn48
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729187&extension=ts&play_token=DPzUF94ftO
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 4 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729188&extension=ts&play_token=zgoxOl9lXR
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EUROSPORT 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729189&extension=ts&play_token=jmqPDC9XQJ
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",SPORT KLUB FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729192&extension=ts&play_token=E4ddcYUAQN
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",SPORT KLUB HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729193&extension=ts&play_token=YuATxLKzKX
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",FIGHTKLUB FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729198&extension=ts&play_token=oZqJWGdH1O
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",FIGHTKLUB HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729199&extension=ts&play_token=LOJAtKPEz8
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",FIGHTBOX FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729196&extension=ts&play_token=D0NVZkd1qD
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",FIGHTBOX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729197&extension=ts&play_token=DlRvHalMtG
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",GOLF ZONE FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729200&extension=ts&play_token=b7qZxtHKDY
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",GOLF ZONE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729201&extension=ts&play_token=2tXnjJSN7g
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EXTREME SPORTS FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729194&extension=ts&play_token=4Edzxzgbtl
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",EXTREME SPORTS HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729195&extension=ts&play_token=nYLeuQtE7n
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",SPORTOWA TV FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729205&extension=ts&play_token=h1w1ErVp05
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",GAMETOON FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729202&extension=ts&play_token=xyTDSUr1Su
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",E-SPORT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729203&extension=ts&play_token=R5wtgFo5w0
+#EXTINF:-1 tvg-logo="" group-title="POLSAT SPORT",X-SPORT FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729204&extension=ts&play_token=XuSloZrvu7
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729221&extension=ts&play_token=YBu7Fi0E8o
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729222&extension=ts&play_token=D3bq88c1zT
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729223&extension=ts&play_token=ndJBrYJ2Cf
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729224&extension=ts&play_token=GwLgUzFU8n
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729225&extension=ts&play_token=yv7mp7stm8
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729226&extension=ts&play_token=7Qr1yfskwy
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729227&extension=ts&play_token=m40c09iSkW
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729228&extension=ts&play_token=qy2mBEoiEe
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729229&extension=ts&play_token=cknE9lZFkO
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729230&extension=ts&play_token=mPFymhlXXD
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729231&extension=ts&play_token=T3GXsMCV4X
+#EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729232&extension=ts&play_token=NBXKOllGx3
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN BRZYDULA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729249&extension=ts&play_token=De7VRZlGQO
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN CZAS NA ŚLUB
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729248&extension=ts&play_token=KlVHnGZKKm
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN KULINARNE PODRÓZE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729251&extension=ts&play_token=5ofl4My5Pg
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN KULTOWE SERIALE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729252&extension=ts&play_token=upkMLV9QJr
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN MAM TALENT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729250&extension=ts&play_token=pRHynX5QBn
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN MILIONERZY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729253&extension=ts&play_token=Juc9OeOJjb
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN MOMENTY PRAWDY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729254&extension=ts&play_token=Zs5S9bUQTq
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN MOTO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729255&extension=ts&play_token=2dKvJjA5Gz
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN PATROL
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729256&extension=ts&play_token=zooGfRhlyI
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN PORA NA SHOW
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729257&extension=ts&play_token=NZ4DdanQ5V
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN PRAWO I ZYCIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729258&extension=ts&play_token=assoQzscQ7
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN RAJSKA MILOSC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729259&extension=ts&play_token=2dOtomYwu6
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN REWOLUCJE W KUCHNI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729260&extension=ts&play_token=qaq2Boxov2
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN SERIALE O KOBIETACH
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729261&extension=ts&play_token=Qo7ZMjUx00
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN SZKOLA ZYCIA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729262&extension=ts&play_token=FG1FlcyklW
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN SZPITALNE HISTORIE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729263&extension=ts&play_token=BAJxWdpPb5
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN TALK SHOW
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729264&extension=ts&play_token=3Zqaw6bR4R
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN TELENOWELE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729265&extension=ts&play_token=bntxPcNfbM
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN USTERKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729266&extension=ts&play_token=0sg8xnNSz2
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN W DOMU
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729267&extension=ts&play_token=o4aynUaSeX
+#EXTINF:-1 tvg-logo="" group-title="TVN PLAYER",TVN ZYCIE JAK W BAJCE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729268&extension=ts&play_token=FIDVFiE1j1
+#EXTINF:-1 tvg-logo="" group-title="TVP FAST",TVP FAST BARWY SZCZĘŚCIA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729281&extension=ts&play_token=H414oJ7LTc
+#EXTINF:-1 tvg-logo="" group-title="TVP FAST",TVP FAST KLAN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729282&extension=ts&play_token=0nsDohKJQP
+#EXTINF:-1 tvg-logo="" group-title="TVP FAST",TVP FAST KRYMINAŁY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729283&extension=ts&play_token=1lLTzdcRZm
+#EXTINF:-1 tvg-logo="" group-title="TVP FAST",TVP FAST MIŁOŚĆ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729284&extension=ts&play_token=yl9qjIYfdN
+#EXTINF:-1 tvg-logo="" group-title="TVP FAST",TVP FAST NA DOBRE I NA ZLE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729280&extension=ts&play_token=dcdjjAKQO9
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MTV POLSKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729285&extension=ts&play_token=iAFDBsQJcR
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VIVA POLSKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729286&extension=ts&play_token=PUP2bkJcnZ
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VIVA CLASSICS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729287&extension=ts&play_token=OCBoRHcJWA
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VIVA RUSSIA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729335&extension=ts&play_token=W2HJklUrXz
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MUSIC 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729329&extension=ts&play_token=yI52Z1ZWLU
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MUSIC BOX
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729288&extension=ts&play_token=QwpRU5KjCr
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MUSIC BOX CLASSIC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729289&extension=ts&play_token=TnR9i8fZJI
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",4FUN TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729290&extension=ts&play_token=pAU1dxkTiT
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",4FUN DANCE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729291&extension=ts&play_token=APijlEOiBD
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",4FUN KIDS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729292&extension=ts&play_token=eVFF7yYWl5
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",ESKA TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729293&extension=ts&play_token=G4r70Xu1fJ
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",ESKA TV EXTRA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729294&extension=ts&play_token=kJaovs6lvG
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",ESKA ROCK TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729296&extension=ts&play_token=QwMHuHgFxG
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",ESKA ROCK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729295&extension=ts&play_token=ElnHLFnVpC
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",KINO POLSKA MUZYKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729297&extension=ts&play_token=6j8uYTuuwj
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VOX MUSIC TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729298&extension=ts&play_token=TbDoBqeEZ2
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",POLSAT MUSIC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729299&extension=ts&play_token=CsI86CKiAX
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",POLO TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729304&extension=ts&play_token=90WvwBwrWY
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DISCO POLO MUSIC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729305&extension=ts&play_token=xJR3KkCHZf
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",POWER TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729300&extension=ts&play_token=K8cilxtlgy
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",NUTA TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729302&extension=ts&play_token=QgyrwmTcNM
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",NUTA GOLD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729303&extension=ts&play_token=cCiZxizMk3
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO 2K
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729315&extension=ts&play_token=euWIdspB4h
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO 70'S
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729318&extension=ts&play_token=QJfzFuTGrZ
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO 80'S
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729317&extension=ts&play_token=cb9RJavyS1
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO 90'S
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729316&extension=ts&play_token=6Gdfmb2KX6
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO COUNTRY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729310&extension=ts&play_token=SfZA8a8xcH
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO LATINOS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729313&extension=ts&play_token=dI2KLffiFN
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO MEXICANO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729314&extension=ts&play_token=JnnwrzXZCe
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO POP
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729311&extension=ts&play_token=nVqQm6mOvt
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",VEVO R&B
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729312&extension=ts&play_token=ZtyT5Gj4E4
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",FIRST MUSIC 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729331&extension=ts&play_token=H11XeRNTSo
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",KRONEHIT TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729334&extension=ts&play_token=GkIEBX7bFc
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",M2O TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729308&extension=ts&play_token=Hl8XWOIW9A
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MEZZO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729332&extension=ts&play_token=7FgZ7SasK3
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MIXTAPE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729306&extension=ts&play_token=UdFlikfc05
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",MOOZ DANCE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729333&extension=ts&play_token=z4K1EzeUzG
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",STARS TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729301&extension=ts&play_token=lKa1D48WZe
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",SZLAGIER TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729307&extension=ts&play_token=XnF1yRn5EC
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",TRACE URBAN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729309&extension=ts&play_token=R2kTqG4KYb
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",CLUBBING TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729319&extension=ts&play_token=HVWFj04voV
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV - BEST OF DANCE TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729320&extension=ts&play_token=EoCEJetoeY
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV - DEEP HOUSE DISTRICT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729321&extension=ts&play_token=HQyXcb6SHe
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV - TECH HOUSE TERRACE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729323&extension=ts&play_token=vGuSonvVZ9
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV - TECHNO WAREHOUSE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729322&extension=ts&play_token=dvdGRFbFrf
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729324&extension=ts&play_token=46F8NhRAvc
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729325&extension=ts&play_token=HziMqbtAYU
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV 7 
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729326&extension=ts&play_token=v0Bqu3JT4F
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV 8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729327&extension=ts&play_token=DIMgMiijao
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",DANCE TV 9
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729328&extension=ts&play_token=ICL0aNX6az
+#EXTINF:-1 tvg-logo="" group-title="MUZYKA",FIRST MUSIC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729330&extension=ts&play_token=Kxu6AXDPBm
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV REGIONALNA ZARY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729337&extension=ts&play_token=fEWRg6uU1O
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV REGIONALNA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729349&extension=ts&play_token=jslJjDyECF
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",SFERA TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729338&extension=ts&play_token=p5530ylrh0
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",LUBELSKA TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729339&extension=ts&play_token=YkYUCYE3Lu
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVK STELLA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729340&extension=ts&play_token=EZCE0sOA9Y
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV MAZOWSZE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729341&extension=ts&play_token=zeLZfnjnyy
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV ASTA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729342&extension=ts&play_token=pNyXX4nkAP
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729343&extension=ts&play_token=bn3r4gXiLS
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TWOJA TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729344&extension=ts&play_token=B8ZAjGz6tD
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TRUSO TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729345&extension=ts&play_token=NNorfFcsox
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV JASLO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729346&extension=ts&play_token=2pYFn9i167
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV KUJAWY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729347&extension=ts&play_token=MqWsC78thW
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV REGIO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729348&extension=ts&play_token=p9VqYGUEfq
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TV TORUN HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729350&extension=ts&play_token=mtINoxapTn
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729351&extension=ts&play_token=LXUibq9LSo
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVT ZGORZELEC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729352&extension=ts&play_token=Dy4qy9ymns
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",WTK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729353&extension=ts&play_token=e02slDoOrD
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP WILNO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729354&extension=ts&play_token=tq4Wc57ImJ
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 BIALYSTOK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729355&extension=ts&play_token=4qn6xvipxw
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 BYDGOSZCZ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729356&extension=ts&play_token=ln3kfwxufy
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 GDANSK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729357&extension=ts&play_token=5gZnZdaUug
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 GORZOW WIELKOPOLSKI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729358&extension=ts&play_token=5alWgQjZKj
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 KATOWICE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729359&extension=ts&play_token=FeB6UOdYly
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 KIELCE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729360&extension=ts&play_token=t8zrSWuXtt
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 KRAKOW
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729361&extension=ts&play_token=3M7ISHNDWi
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 LODZ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729362&extension=ts&play_token=iTOmfb3jba
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 LUBLIN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729363&extension=ts&play_token=kFaPSY3xf2
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 OLSZTYN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729364&extension=ts&play_token=DMshWNI0Bb
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 OPOLE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729365&extension=ts&play_token=U3iq3rZiVN
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 POZNAN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729366&extension=ts&play_token=DavIC6uzye
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 RZESZOW
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729367&extension=ts&play_token=T9aF0dhnhK
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 SZCZECIN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729368&extension=ts&play_token=vGXwELK5jH
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 WARSZAWA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729369&extension=ts&play_token=nI9RGnr5Mk
+#EXTINF:-1 tvg-logo="" group-title="REGIONALNE",TVP3 WROCLAW
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729370&extension=ts&play_token=zXu3ix374h
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 B.SZEMRAJ - PRZEPISY 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729375&extension=ts&play_token=fynnmjquu2
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 B.SZEMRAJ - PRZEPISY 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729376&extension=ts&play_token=fhYhFsjl7h
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 B.SZEMRAJ - PRZEPISY 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729377&extension=ts&play_token=UzNLea5kq6
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - PRZEPISY 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729380&extension=ts&play_token=u0kbqHQqlW
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - PRZEPISY 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729381&extension=ts&play_token=4eXzWT7Y2d
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - PORADY 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729383&extension=ts&play_token=2s4l9aDZXv
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - CAŁA PRAWDA O......
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729382&extension=ts&play_token=pmEDvJjgBX
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - IDZIEMY NA ZAKUPY 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729378&extension=ts&play_token=wfjuAe2ri4
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - IDZIEMY NA ZAKUPY 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729379&extension=ts&play_token=bP2YLQA5xW
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.WRZOSEK - SZYBKI TRENING W DOMU
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729384&extension=ts&play_token=MRIu0WvNh8
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 M.SKOCZYLAS - POPARTE BADANIAMI 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=1729385&extension=ts&play_token=rsNm93uK6d
+#EXTINF:-1 tvg-logo="" group-title="FIT & ZDROWIE",24/7 CENTRUM RESPO - CO KUPOWAĆ A CO NIE !!!
+
