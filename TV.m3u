@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP1_logo.png" group-title="OGÓLNE",TVP 1 FHD
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227463&extension=ts&play_token=aPRWIvL63S
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP1_logo.png" group-title="OGÓLNE",TVP 1 HD
